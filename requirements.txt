@@ -1,0 +1,5 @@
+# This project uses uv for dependency management.
+# Install dependencies with:
+#   uv venv
+#   source .venv/bin/activate
+#   uv sync
