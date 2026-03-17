@@ -1,0 +1,23 @@
+[
+  {
+    "source": "rbi_statement",
+    "payload": {
+      "title": "RBI keeps liquidity tight",
+      "text": "RBI commentary highlighted inflation vigilance. Repo rate guidance may influence bond yield and NIFTY movement in India."
+    }
+  },
+  {
+    "source": "macro_news",
+    "payload": {
+      "title": "Oil rises",
+      "text": "Crude oil prices climbed this week and economists warned of imported inflation risk for India."
+    }
+  },
+  {
+    "source": "market_wrap",
+    "payload": {
+      "title": "NIFTY closes lower",
+      "text": "NIFTY fell amid concerns that bond yield and inflation could remain elevated after RBI communication."
+    }
+  }
+]
