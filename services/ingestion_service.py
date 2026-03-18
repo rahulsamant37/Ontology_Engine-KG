@@ -13,14 +13,34 @@ class IngestionService:
         self.vector_index = vector_index
 
     def ingest(self, request: RawIngestRequest) -> tuple[IngestResult, dict]:
-        normalized = normalize_payload(source=request.source, payload=request.payload)
-        text = normalized.get("text") or normalized.get("title") or str(normalized.get("metrics"))
+        normalized = normalize_payload(
+            source=request.source,
+            payload=request.payload,
+            payload_type=request.payload_type,
+        )
+
+        metric_names = [metric.get("name", "") for metric in normalized.get("metrics", []) if metric.get("name")]
+        text_parts = [normalized.get("title", ""), normalized.get("text", "")]
+        if metric_names:
+            text_parts.append(f"metrics: {', '.join(metric_names)}")
+        text = " | ".join(part for part in text_parts if part).strip() or str(normalized.get("metrics"))
+
+        metadata = {
+            "source": request.source,
+            "timestamp": normalized["timestamp"],
+            "payload_type": str(normalized.get("payload_type", "auto")),
+            "event_type": str(normalized.get("event_type", "")),
+            "country": str(normalized.get("country", "India")),
+            "tags": ",".join(normalized.get("tags", [])),
+            "entities": ",".join(normalized.get("entities", [])),
+            "metric_names": ",".join(metric_names),
+        }
 
         self.vector_index.add(
             [
                 VectorRecord(
                     text=text,
-                    metadata={"source": request.source, "timestamp": normalized["timestamp"]},
+                    metadata=metadata,
                 )
             ]
         )
