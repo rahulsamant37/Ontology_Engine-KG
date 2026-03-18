@@ -32,7 +32,7 @@ class GraphRepository:
                 )
                 self._driver.verify_connectivity()
                 logger.info("Neo4j enabled at %s", settings.neo4j_uri)
-            except Neo4jError as exc:
+            except (Neo4jError, Exception) as exc:
                 logger.warning(
                     "Neo4j connection failed. Falling back to in-memory graph. uri=%s error=%s",
                     settings.neo4j_uri,
