@@ -1,23 +1,109 @@
 [
   {
     "source": "rbi_statement",
+    "payload_type": "unstructured",
     "payload": {
       "title": "RBI keeps liquidity tight",
-      "text": "RBI commentary highlighted inflation vigilance. Repo rate guidance may influence bond yield and NIFTY movement in India."
+      "raw_text": "RBI commentary highlighted inflation vigilance. Repo rate guidance may influence bond yield and NIFTY movement in India."
     }
   },
   {
     "source": "macro_news",
+    "payload_type": "unstructured",
     "payload": {
       "title": "Oil rises",
-      "text": "Crude oil prices climbed this week and economists warned of imported inflation risk for India."
+      "raw_text": "Crude oil prices climbed this week and economists warned of imported inflation risk for India."
     }
   },
   {
     "source": "market_wrap",
+    "payload_type": "unstructured",
     "payload": {
       "title": "NIFTY closes lower",
-      "text": "NIFTY fell amid concerns that bond yield and inflation could remain elevated after RBI communication."
+      "raw_text": "NIFTY fell amid concerns that bond yield and inflation could remain elevated after RBI communication."
+    }
+  },
+  {
+    "source": "cpi_release_q4",
+    "payload_type": "structured",
+    "payload": {
+      "title": "India CPI annual inflation update",
+      "text": "Annual CPI inflation eased but remained above comfort levels.",
+      "event_type": "inflation_update",
+      "country": "India",
+      "timestamp": "2025-12-31T00:00:00+00:00",
+      "metrics": [
+        {
+          "name": "Inflation (CPI, annual %)",
+          "value": 5.4,
+          "unit": "%",
+          "period": "2025"
+        }
+      ],
+      "tags": [
+        "structured",
+        "cpi",
+        "official_release"
+      ],
+      "entities": [
+        "India",
+        "Inflation"
+      ]
+    }
+  },
+  {
+    "source": "policy_tracker",
+    "payload_type": "structured",
+    "payload": {
+      "title": "RBI policy corridor change",
+      "text": "Policy stance remained vigilant while liquidity operations tightened by 25 basis points.",
+      "event_type": "monetary_policy",
+      "country": "India",
+      "timestamp": "2026-02-20T00:00:00+00:00",
+      "metrics": [
+        {
+          "name": "Liquidity adjustment",
+          "value": 25,
+          "unit": "bps",
+          "period": "2026-Q1"
+        }
+      ],
+      "tags": [
+        "structured",
+        "policy"
+      ],
+      "entities": [
+        "Reserve Bank of India",
+        "Repo Rate Decision"
+      ]
+    }
+  },
+  {
+    "source": "market_bulletin",
+    "payload_type": "structured",
+    "payload": {
+      "title": "NIFTY volatility spike",
+      "text": "NIFTY 50 dropped as yields rose and energy prices stayed elevated.",
+      "event_type": "market_movement",
+      "country": "India",
+      "timestamp": "2026-03-10T00:00:00+00:00",
+      "metrics": [
+        {
+          "name": "NIFTY 50 daily move",
+          "value": -1.2,
+          "unit": "%",
+          "period": "2026-03-10"
+        }
+      ],
+      "tags": [
+        "structured",
+        "equities"
+      ],
+      "entities": [
+        "NIFTY 50",
+        "Indian Government Bond Yield",
+        "Crude Oil"
+      ]
     }
   }
 ]
