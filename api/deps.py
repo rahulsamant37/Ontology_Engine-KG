@@ -9,6 +9,7 @@ from db.vector_store import VectorIndex
 from services.extraction_service import ExtractionService
 from services.ingestion_service import IngestionService
 from services.insight_service import InsightService
+from services.public_data_service import PublicDataService
 from services.query_service import QueryService
 from services.reasoning_service import ReasoningService
 
@@ -58,6 +59,11 @@ def get_workflow() -> FinancialWorkflow:
 @lru_cache
 def get_ingestion_service() -> IngestionService:
     return IngestionService(vector_index=get_vector_index())
+
+
+@lru_cache
+def get_public_data_service() -> PublicDataService:
+    return PublicDataService()
 
 
 @lru_cache
