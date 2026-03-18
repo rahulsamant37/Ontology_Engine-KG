@@ -44,6 +44,7 @@ curl http://127.0.0.1:8000/health
 ## API Endpoints
 
 - `POST /ingest`
+- `POST /ingest/public`
 - `POST /query`
 - `GET /insights`
 - `GET /graph`
@@ -55,10 +56,39 @@ curl -X POST http://127.0.0.1:8000/ingest \
 	-H "content-type: application/json" \
 	-d '{
 		"source": "macro_news",
+		"payload_type": "unstructured",
 		"payload": {
-			"text": "RBI warned on inflation as oil rose and NIFTY reacted to yields."
+			"raw_text": "RBI warned on inflation as oil rose and NIFTY reacted to yields."
 		}
 	}'
+```
+
+### Example: ingest structured
+
+```bash
+curl -X POST http://127.0.0.1:8000/ingest \
+	-H "content-type: application/json" \
+	-d '{
+		"source": "cpi_release",
+		"payload_type": "structured",
+		"payload": {
+			"title": "India CPI annual inflation update",
+			"text": "Annual CPI inflation eased to 5.4%.",
+			"event_type": "inflation_update",
+			"country": "India",
+			"metrics": [{"name": "Inflation (CPI, annual %)", "value": 5.4, "unit": "%", "period": "2025"}],
+			"tags": ["structured", "cpi"],
+			"entities": ["India", "Inflation"]
+		}
+	}'
+```
+
+### Example: ingest from World Bank API
+
+```bash
+curl -X POST http://127.0.0.1:8000/ingest/public \
+	-H "content-type: application/json" \
+	-d '{"country_code":"IN","start_year":2020,"end_year":2025}'
 ```
 
 ### Example: query
@@ -113,6 +143,12 @@ Relationships (strict whitelist):
 - correlates_with
 - announced_by
 - impacts
+
+## Data Quality Upgrades
+
+- Structured payload validation via strict Pydantic schemas (`StructuredEventPayload`, `MetricPoint`)
+- Unstructured payload transformation via `OntologyTextTransformer` (event type, entities, tags, metrics)
+- Scalable public data integration via World Bank indicators for historical macro enrichment
 
 ## Demo Run
 
