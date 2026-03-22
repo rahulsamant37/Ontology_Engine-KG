@@ -33,7 +33,7 @@ class QueryService:
 
         final_state = self.workflow.run(initial_state)
         insight = Insight(**final_state["insight"])
-
+        # save to postgres if not then sqlite
         self.insight_repository.save_insight(question=request.question, payload=insight)
         logger.info("Query answered: %s", request.question)
         return insight, final_state.get("logs", [])

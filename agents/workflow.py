@@ -109,6 +109,8 @@ class FinancialWorkflow:
             question=state["question"],
             drivers=state.get("drivers", []),
             confidence=state.get("confidence", 0.4),
+            # relationship_count=len(state.get("relationships", [])),
+            # retrieved_doc_count=len(state.get("retrieved_docs", [])),
         )
         state["insight"] = insight.model_dump()
         self._append_log(state, "InsightAgent: final insight generated")

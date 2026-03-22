@@ -19,7 +19,7 @@ DEFAULT_INDICATORS: tuple[IndicatorDefinition, ...] = (
     IndicatorDefinition("FP.CPI.TOTL.ZG", "Inflation (CPI, annual %)", "%", "inflation_update"),
     IndicatorDefinition("FR.INR.LEND", "Lending interest rate", "%", "monetary_policy"),
     IndicatorDefinition("CM.MKT.LCAP.CD", "Market capitalization (USD)", "USD", "market_movement"),
-    IndicatorDefinition("CM.MKT.POIL", "Crude oil price index", "index", "commodity_price_move"),
+    IndicatorDefinition("NY.GDP.MKTP.CD", "Crude oil price index", "index", "commodity_price_move"),
 )
 
 
@@ -54,11 +54,25 @@ class PublicDataService:
                 if point["value"] is None:
                     continue
 
-                year = int(point["date"])
+                # Some World Bank points can contain non-numeric placeholders.
+                try:
+                    metric_value = float(point["value"])
+                except (TypeError, ValueError):
+                    continue
+
+                date_raw = point.get("date")
+                if date_raw is None:
+                    continue
+
+                try:
+                    year = int(date_raw)
+                except (TypeError, ValueError):
+                    continue
+
                 title = f"{definition.name} update for {country_code.upper()} ({year})"
                 text = (
                     f"{definition.name} for {country_code.upper()} in {year} was "
-                    f"{point['value']} {definition.unit}."
+                    f"{metric_value} {definition.unit}."
                 )
                 events.append(
                     {
@@ -73,7 +87,7 @@ class PublicDataService:
                             "metrics": [
                                 {
                                     "name": definition.name,
-                                    "value": float(point["value"]),
+                                    "value": metric_value,
                                     "unit": definition.unit,
                                     "period": str(year),
                                 }

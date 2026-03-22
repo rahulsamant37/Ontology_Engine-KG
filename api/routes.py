@@ -41,9 +41,12 @@ def ingest_public_data(
 
     ingested_items = 0
     for event in events:
-        ingest_request = RawIngestRequest.model_validate(event)
-        ingestion_service.ingest(ingest_request)
-        ingested_items += 1
+        try:
+            ingest_request = RawIngestRequest.model_validate(event)
+            ingestion_service.ingest(ingest_request) # same as /ingestion endpoint
+            ingested_items += 1
+        except ValueError as exc:
+            raise HTTPException(status_code=422, detail=str(exc)) from exc
 
     return IngestResult(
         status="success",
@@ -59,6 +62,7 @@ def query(
     request: QueryRequest,
     service: QueryService = Depends(get_query_service),
 ):
+    # retrive context from vector store, run through workflow and get insight
     insight, logs = service.answer(request)
     return {
         **insight.model_dump(),
