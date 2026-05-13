@@ -17,6 +17,7 @@ dependencies = [
 	"uvicorn>=0.32.0",
 	"langchain-chroma>=1.1.0",
 	"ipykernel>=7.2.0",
+	"pandas>=3.0.2",
 ]
 
 [dependency-groups]

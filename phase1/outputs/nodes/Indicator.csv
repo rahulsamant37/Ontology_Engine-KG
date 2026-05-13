@@ -1,0 +1,1277 @@
+name,code,:ID,:LABEL
+Refugees under the mandate of the UNHCR by country or territory of origin,SM.POP.RHCR.EO,indicator::SM.POP.RHCR.EO,Indicator
+Net migration,SM.POP.NETM,indicator::SM.POP.NETM,Indicator
+Asylum-seekers by country or territory of asylum,SM.POP.ASYS.EA,indicator::SM.POP.ASYS.EA,Indicator
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,indicator::SL.UEM.TOTL.ZS,Indicator
+"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,indicator::SL.UEM.TOTL.FE.ZS,Indicator
+"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,indicator::SL.TLF.TOTL.FE.ZS,Indicator
+"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,indicator::SL.TLF.ACTI.1524.ZS,Indicator
+"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,indicator::SL.TLF.ACTI.1524.FE.ZS,Indicator
+GDP per person employed (constant 2021 PPP $),SL.GDP.PCAP.EM.KD,indicator::SL.GDP.PCAP.EM.KD,Indicator
+"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,indicator::SL.EMP.WORK.MA.ZS,Indicator
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,indicator::SL.EMP.VULN.FE.ZS,Indicator
+"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,indicator::SL.EMP.SELF.ZS,Indicator
+"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,indicator::SL.EMP.MPYR.MA.ZS,Indicator
+"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",SL.EMP.1524.SP.MA.ZS,indicator::SL.EMP.1524.SP.MA.ZS,Indicator
+Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,indicator::SL.AGR.EMPL.ZS,Indicator
+"UHC service coverage sub-index on reproductive, maternal, newborn and child health",SH_UHC_SCI_RMNCH,indicator::SH_UHC_SCI_RMNCH,Indicator
+UHC service coverage index,SH_UHC_SCI,indicator::SH_UHC_SCI,Indicator
+Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,indicator::SH.XPD.PVTD.CH.ZS,Indicator
+"Domestic general government health expenditure per capita, PPP (current international $)",SH.XPD.GHED.PP.CD,indicator::SH.XPD.GHED.PP.CD,Indicator
+Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,indicator::SH.XPD.GHED.CH.ZS,Indicator
+"Current health expenditure per capita, PPP (current international $)",SH.XPD.CHEX.PP.CD,indicator::SH.XPD.CHEX.PP.CD,Indicator
+"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,indicator::SH.TBS.INCD,Indicator
+Short-term debt (% of total external debt),DT.DOD.DSTC.ZS,indicator::DT.DOD.DSTC.ZS,Indicator
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,indicator::DT.DOD.DPPG.CD,Indicator
+External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,indicator::DT.DOD.DECT.GN.ZS,Indicator
+"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD,indicator::DC.DAC.TOTL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Portugal (current US$)",DC.DAC.PRTL.CD,indicator::DC.DAC.PRTL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Netherlands (current US$)",DC.DAC.NLDL.CD,indicator::DC.DAC.NLDL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD,indicator::DC.DAC.JPNL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Hungary (current US$)",DC.DAC.HUNL.CD,indicator::DC.DAC.HUNL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Finland (current US$)",DC.DAC.FINL.CD,indicator::DC.DAC.FINL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD,indicator::DC.DAC.DEUL.CD,Indicator
+"Share of youth not in education, employment or training, male (% of male youth population)  (modeled ILO estimate)",SL.UEM.NEET.MA.ME.ZS,indicator::SL.UEM.NEET.MA.ME.ZS,Indicator
+"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,indicator::SL.UEM.1524.ZS,Indicator
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,indicator::SL.UEM.1524.FE.ZS,Indicator
+"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,indicator::SL.TLF.CACT.MA.ZS,Indicator
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,indicator::SL.TLF.CACT.FE.ZS,Indicator
+"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,indicator::SL.TLF.ACTI.ZS,Indicator
+Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,indicator::SL.SRV.EMPL.ZS,Indicator
+Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,indicator::SL.IND.EMPL.ZS,Indicator
+"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,indicator::SL.FAM.WORK.ZS,Indicator
+"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,indicator::SL.EMP.WORK.FE.ZS,Indicator
+"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,indicator::SL.EMP.TOTL.SP.ZS,Indicator
+"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.FE.ZS,indicator::SL.EMP.TOTL.SP.FE.ZS,Indicator
+"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,indicator::SL.EMP.SELF.MA.ZS,Indicator
+"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,indicator::SL.EMP.MPYR.FE.ZS,Indicator
+"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,indicator::SL.AGR.EMPL.MA.ZS,Indicator
+UHC service coverage sub-index on non-communicable diseases,SH_UHC_SCI_NCD,indicator::SH_UHC_SCI_NCD,Indicator
+"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,indicator::SH.XPD.OOPC.PP.CD,Indicator
+Domestic general government health expenditure per capita (current US$),SH.XPD.GHED.PC.CD,indicator::SH.XPD.GHED.PC.CD,Indicator
+"External health expenditure per capita, PPP (current international $)",SH.XPD.EHEX.PP.CD,indicator::SH.XPD.EHEX.PP.CD,Indicator
+Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,indicator::SH.XPD.CHEX.PC.CD,Indicator
+"Net bilateral aid flows from DAC donors, Sweden (current US$)",DC.DAC.SWEL.CD,indicator::DC.DAC.SWEL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Poland (current US$)",DC.DAC.POLL.CD,indicator::DC.DAC.POLL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",DC.DAC.LUXL.CD,indicator::DC.DAC.LUXL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD,indicator::DC.DAC.ITAL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Greece (current US$)",DC.DAC.GRCL.CD,indicator::DC.DAC.GRCL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Estonia (current US$)",DC.DAC.ESTL.CD,indicator::DC.DAC.ESTL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Czechia (current US$)",DC.DAC.CZEL.CD,indicator::DC.DAC.CZEL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Belgium (current US$)",DC.DAC.BELL.CD,indicator::DC.DAC.BELL.CD,Indicator
+"Stocks traded, total value (% of GDP)",CM.MKT.TRAD.GD.ZS,indicator::CM.MKT.TRAD.GD.ZS,Indicator
+Market capitalization of listed domestic companies (current US$),CM.MKT.LCAP.CD,indicator::CM.MKT.LCAP.CD,Indicator
+"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,indicator::BX.TRF.PWKR.CD,Indicator
+Asylum-seekers by country or territory of origin,SM.POP.ASYS.EO,indicator::SM.POP.ASYS.EO,Indicator
+"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)",SL.UEM.NEET.ME.ZS,indicator::SL.UEM.NEET.ME.ZS,Indicator
+"Share of youth not in education, employment or training, female (% of female youth population) (modeled ILO estimate)",SL.UEM.NEET.FE.ME.ZS,indicator::SL.UEM.NEET.FE.ME.ZS,Indicator
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,indicator::SL.UEM.1524.MA.ZS,Indicator
+"Labor force, total",SL.TLF.TOTL.IN,indicator::SL.TLF.TOTL.IN,Indicator
+"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,indicator::SL.TLF.CACT.ZS,Indicator
+Ratio of female to male labor force participation rate (%) (modeled ILO estimate),SL.TLF.CACT.FM.ZS,indicator::SL.TLF.CACT.FM.ZS,Indicator
+"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,indicator::SL.TLF.ACTI.FE.ZS,Indicator
+"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,indicator::SL.SRV.EMPL.FE.ZS,Indicator
+"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,indicator::SL.IND.EMPL.FE.ZS,Indicator
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,indicator::SL.FAM.WORK.FE.ZS,Indicator
+"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,indicator::SL.EMP.WORK.ZS,Indicator
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,indicator::SL.EMP.VULN.MA.ZS,Indicator
+"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.MA.ZS,indicator::SL.EMP.TOTL.SP.MA.ZS,Indicator
+"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,indicator::SL.EMP.MPYR.ZS,Indicator
+UHC service coverage sub-index on service capacity and access,SH_UHC_SCI_CAPACITY,indicator::SH_UHC_SCI_CAPACITY,Indicator
+Domestic private health expenditure per capita (current US$),SH.XPD.PVTD.PC.CD,indicator::SH.XPD.PVTD.PC.CD,Indicator
+Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,indicator::SH.XPD.OOPC.CH.ZS,Indicator
+Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,indicator::SH.XPD.GHED.GD.ZS,Indicator
+"Net official flows from UN agencies, IFAD (current US$)",DT.NFL.IFAD.CD,indicator::DT.NFL.IFAD.CD,Indicator
+"PPG, IBRD (DOD, current US$)",DT.DOD.MIBR.CD,indicator::DT.DOD.MIBR.CD,Indicator
+"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,indicator::DT.DOD.DSTC.CD,Indicator
+"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.CD,indicator::DT.DOD.DIMF.CD,Indicator
+"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD,indicator::DC.DAC.USAL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",DC.DAC.SVKL.CD,indicator::DC.DAC.SVKL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Norway (current US$)",DC.DAC.NORL.CD,indicator::DC.DAC.NORL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",DC.DAC.KORL.CD,indicator::DC.DAC.KORL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Ireland (current US$)",DC.DAC.IRLL.CD,indicator::DC.DAC.IRLL.CD,Indicator
+"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,indicator::SL.UEM.TOTL.MA.ZS,Indicator
+"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,indicator::SL.TLF.ACTI.MA.ZS,Indicator
+"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,indicator::SL.TLF.ACTI.1524.MA.ZS,Indicator
+"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,indicator::SL.SRV.EMPL.MA.ZS,Indicator
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,indicator::SL.IND.EMPL.MA.ZS,Indicator
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,indicator::SL.FAM.WORK.MA.ZS,Indicator
+"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,indicator::SL.EMP.VULN.ZS,Indicator
+"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,indicator::SL.EMP.SELF.FE.ZS,Indicator
+"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",SL.EMP.1524.SP.ZS,indicator::SL.EMP.1524.SP.ZS,Indicator
+"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",SL.EMP.1524.SP.FE.ZS,indicator::SL.EMP.1524.SP.FE.ZS,Indicator
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,indicator::SL.AGR.EMPL.FE.ZS,Indicator
+UHC service coverage sub-index on infectious diseases,SH_UHC_SCI_ID,indicator::SH_UHC_SCI_ID,Indicator
+"Domestic private health expenditure per capita, PPP (current international $)",SH.XPD.PVTD.PP.CD,indicator::SH.XPD.PVTD.PP.CD,Indicator
+Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,indicator::SH.XPD.OOPC.PC.CD,Indicator
+Domestic general government health expenditure (% of general government expenditure),SH.XPD.GHED.GE.ZS,indicator::SH.XPD.GHED.GE.ZS,Indicator
+External health expenditure per capita (current US$),SH.XPD.EHEX.PC.CD,indicator::SH.XPD.EHEX.PC.CD,Indicator
+Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,indicator::SH.XPD.CHEX.GD.ZS,Indicator
+Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,indicator::SH.TBS.CURE.ZS,Indicator
+"Prevalence of wasting, weight for height (% of children under 5)",SH.STA.WAST.ZS,indicator::SH.STA.WAST.ZS,Indicator
+"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,indicator::SH.STA.TRAF.P5,Indicator
+"PPG, IDA (DOD, current US$)",DT.DOD.MIDA.CD,indicator::DT.DOD.MIDA.CD,Indicator
+Short-term debt (% of total reserves),DT.DOD.DSTC.IR.ZS,indicator::DT.DOD.DSTC.IR.ZS,Indicator
+"External debt stocks, long-term (DOD, current US$)",DT.DOD.DLXF.CD,indicator::DT.DOD.DLXF.CD,Indicator
+"Net bilateral aid flows from DAC donors, New Zealand (current US$)",DC.DAC.NZLL.CD,indicator::DC.DAC.NZLL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Lithuania (current US$)",DC.DAC.LTUL.CD,indicator::DC.DAC.LTUL.CD,Indicator
+"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD,indicator::DC.DAC.GBRL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Spain (current US$)",DC.DAC.ESPL.CD,indicator::DC.DAC.ESPL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Switzerland (current US$)",DC.DAC.CHEL.CD,indicator::DC.DAC.CHEL.CD,Indicator
+"Prevalence of severe wasting, weight for height, male (% of children under 5)",SH.SVR.WAST.MA.ZS,indicator::SH.SVR.WAST.MA.ZS,Indicator
+"Prevalence of wasting, weight for height, female (% of children under 5)",SH.STA.WAST.FE.ZS,indicator::SH.STA.WAST.FE.ZS,Indicator
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,indicator::SH.STA.SUIC.MA.P5,Indicator
+"Prevalence of stunting, height for age, male (modeled estimate, % of children under 5)",SH.STA.STNT.ME.MA.ZS,indicator::SH.STA.STNT.ME.MA.ZS,Indicator
+People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,indicator::SH.STA.SMSS.ZS,Indicator
+"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE,indicator::SH.STA.POIS.P5.FE,Indicator
+"Prevalence of overweight, weight for height, male (modeled estimate, % of children under 5)",SH.STA.OWGH.ME.MA.ZS,indicator::SH.STA.OWGH.ME.MA.ZS,Indicator
+"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,indicator::SH.STA.ODFC.RU.ZS,Indicator
+"Prevalence of underweight, weight for age, male (% of children under 5)",SH.STA.MALN.MA.ZS,indicator::SH.STA.MALN.MA.ZS,Indicator
+"People with basic handwashing facilities including soap and water, rural (% of rural population)",SH.STA.HYGN.RU.ZS,indicator::SH.STA.HYGN.RU.ZS,Indicator
+"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,indicator::SH.STA.BASS.RU.ZS,Indicator
+Risk of catastrophic expenditure for surgical care (% of people at risk),SH.SGR.CRSK.ZS,indicator::SH.SGR.CRSK.ZS,Indicator
+Prevalence of anemia among pregnant women (%),SH.PRG.ANEM,indicator::SH.PRG.ANEM,Indicator
+"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,indicator::SH.MED.PHYS.ZS,Indicator
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,indicator::SH.IMM.MEAS,Indicator
+"People using safely managed drinking water services, urban (% of urban population)",SH.H2O.SMDW.UR.ZS,indicator::SH.H2O.SMDW.UR.ZS,Indicator
+"People using at least basic drinking water services, rural (% of rural population)",SH.H2O.BASW.RU.ZS,indicator::SH.H2O.BASW.RU.ZS,Indicator
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",SH.DYN.NCOM.MA.ZS,indicator::SH.DYN.NCOM.MA.ZS,Indicator
+"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,indicator::SH.DYN.MORT,Indicator
+"Probability of dying among adolescents ages 15-19 years (per 1,000)",SH.DYN.1519,indicator::SH.DYN.1519,Indicator
+Number of neonatal deaths,SH.DTH.NMRT,indicator::SH.DTH.NMRT,Indicator
+Number of infant deaths,SH.DTH.IMRT,indicator::SH.DTH.IMRT,Indicator
+Number of deaths ages 10-14 years,SH.DTH.1014,indicator::SH.DTH.1014,Indicator
+Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH.ANM.NPRG.ZS,indicator::SH.ANM.NPRG.ZS,Indicator
+"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,indicator::SH.ALC.PCAP.LI,Indicator
+"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,indicator::SE.TER.ENRR.FE,Indicator
+"Secondary education, teachers",SE.SEC.TCHR,indicator::SE.SEC.TCHR,Indicator
+"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD,indicator::DC.DAC.CANL.CD,Indicator
+"Stocks traded, turnover ratio of domestic shares (%)",CM.MKT.TRNR,indicator::CM.MKT.TRNR,Indicator
+Market capitalization of listed domestic companies (% of GDP),CM.MKT.LCAP.GD.ZS,indicator::CM.MKT.LCAP.GD.ZS,Indicator
+"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,indicator::BX.TRF.PWKR.CD.DT,Indicator
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,indicator::BX.KLT.DINV.WD.GD.ZS,Indicator
+"Exports of goods, services and primary income (BoP, current US$)",BX.GSR.TOTL.CD,indicator::BX.GSR.TOTL.CD,Indicator
+"Insurance and financial services (% of service exports, BoP)",BX.GSR.INSF.ZS,indicator::BX.GSR.INSF.ZS,Indicator
+"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,indicator::BX.GSR.CCIS.ZS,Indicator
+"Net capital account (BoP, current US$)",BN.TRF.KOGT.CD,indicator::BN.TRF.KOGT.CD,Indicator
+"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,indicator::BN.KLT.DINV.CD,Indicator
+"Net primary income (BoP, current US$)",BN.GSR.FCTY.CD,indicator::BN.GSR.FCTY.CD,Indicator
+"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,indicator::BM.TRF.PWKR.CD.DT,Indicator
+"Travel services (% of service imports, BoP)",BM.GSR.TRVL.ZS,indicator::BM.GSR.TRVL.ZS,Indicator
+"Service imports (BoP, current US$)",BM.GSR.NFSV.CD,indicator::BM.GSR.NFSV.CD,Indicator
+"Primary income payments (BoP, current US$)",BM.GSR.FCTY.CD,indicator::BM.GSR.FCTY.CD,Indicator
+Surface area (sq. km),AG.SRF.TOTL.K2,indicator::AG.SRF.TOTL.K2,Indicator
+Cereal production (metric tons),AG.PRD.CREL.MT,indicator::AG.PRD.CREL.MT,Indicator
+Average precipitation in depth (mm per year),AG.LND.PRCP.MM,indicator::AG.LND.PRCP.MM,Indicator
+Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,indicator::AG.LND.EL5M.ZS,Indicator
+Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,indicator::AG.LND.EL5M.RU.K2,Indicator
+Arable land (hectares per person),AG.LND.ARBL.HA.PC,indicator::AG.LND.ARBL.HA.PC,Indicator
+Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,indicator::AG.CON.FERT.ZS,Indicator
+"Tuberculosis case detection rate (%, all forms)",SH.TBS.DTEC.ZS,indicator::SH.TBS.DTEC.ZS,Indicator
+"Prevalence of severe wasting, weight for height, female (% of children under 5)",SH.SVR.WAST.FE.ZS,indicator::SH.SVR.WAST.FE.ZS,Indicator
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,indicator::SH.STA.SUIC.FE.P5,Indicator
+"Prevalence of stunting, height for age, female (modeled estimate, % of children under 5)",SH.STA.STNT.ME.FE.ZS,indicator::SH.STA.STNT.ME.FE.ZS,Indicator
+"People using safely managed sanitation services, urban (% of urban population)",SH.STA.SMSS.UR.ZS,indicator::SH.STA.SMSS.UR.ZS,Indicator
+"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5,indicator::SH.STA.POIS.P5,Indicator
+"Prevalence of overweight, weight for height, female (modeled estimate, % of children under 5)",SH.STA.OWGH.ME.FE.ZS,indicator::SH.STA.OWGH.ME.FE.ZS,Indicator
+"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,indicator::SH.STA.MMRT.NE,Indicator
+"Prevalence of underweight, weight for age, female (% of children under 5)",SH.STA.MALN.FE.ZS,indicator::SH.STA.MALN.FE.ZS,Indicator
+"Prevalence of current tobacco use, males (% of male adults)",SH.PRV.SMOK.MA,indicator::SH.PRV.SMOK.MA,Indicator
+Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,indicator::SH.MMR.RISK.ZS,Indicator
+"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,indicator::SH.MED.NUMW.P3,Indicator
+"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,indicator::SH.IMM.IDPT,Indicator
+"People using safely managed drinking water services, rural (% of rural population)",SH.H2O.SMDW.RU.ZS,indicator::SH.H2O.SMDW.RU.ZS,Indicator
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS,indicator::SH.DYN.NCOM.FE.ZS,Indicator
+"Probability of dying among adolescents ages 10-14 years (per 1,000)",SH.DYN.1014,indicator::SH.DYN.1014,Indicator
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,indicator::SH.DTH.NCOM.ZS,Indicator
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,indicator::SH.DTH.COMM.ZS,Indicator
+Number of deaths ages 5-9 years,SH.DTH.0509,indicator::SH.DTH.0509,Indicator
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,indicator::SH.ANM.CHLD.ZS,Indicator
+"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,indicator::SH.ALC.PCAP.FE.LI,Indicator
+"School enrollment, tertiary (% gross)",SE.TER.ENRR,indicator::SE.TER.ENRR,Indicator
+"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,indicator::BX.KLT.DINV.CD.WD,Indicator
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,indicator::BX.GSR.ROYL.CD,Indicator
+"Exports of goods and services (BoP, current US$)",BX.GSR.GNFS.CD,indicator::BX.GSR.GNFS.CD,Indicator
+"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,indicator::BX.GSR.CCIS.CD,Indicator
+"Net secondary income (BoP, current US$)",BN.TRF.CURR.CD,indicator::BN.TRF.CURR.CD,Indicator
+"Net errors and omissions (BoP, current US$)",BN.KAC.EOMS.CD,indicator::BN.KAC.EOMS.CD,Indicator
+"Net financial account (BoP, current US$)",BN.FIN.TOTL.CD,indicator::BN.FIN.TOTL.CD,Indicator
+"Secondary income, other sectors, payments (BoP, current US$)",BM.TRF.PRVT.CD,indicator::BM.TRF.PRVT.CD,Indicator
+"Transport services (% of service imports, BoP)",BM.GSR.TRAN.ZS,indicator::BM.GSR.TRAN.ZS,Indicator
+"Goods imports (BoP, current US$)",BM.GSR.MRCH.CD,indicator::BM.GSR.MRCH.CD,Indicator
+"Communications, computer, etc. (% of service imports, BoP)",BM.GSR.CMCP.ZS,indicator::BM.GSR.CMCP.ZS,Indicator
+Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,indicator::AG.PRD.LVSK.XD,Indicator
+Urban land area (sq. km),AG.LND.TOTL.UR.K2,indicator::AG.LND.TOTL.UR.K2,Indicator
+Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,indicator::AG.LND.IRIG.AG.ZS,Indicator
+Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,indicator::AG.LND.EL5M.UR.ZS,Indicator
+Permanent cropland (% of land area),AG.LND.CROP.ZS,indicator::AG.LND.CROP.ZS,Indicator
+Arable land (hectares),AG.LND.ARBL.HA,indicator::AG.LND.ARBL.HA,Indicator
+Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,indicator::AG.CON.FERT.PT.ZS,Indicator
+External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,indicator::SH.XPD.EHEX.CH.ZS,Indicator
+Newborns protected against tetanus (%),SH.VAC.TTNS.ZS,indicator::SH.VAC.TTNS.ZS,Indicator
+"Prevalence of severe wasting, weight for height (% of children under 5)",SH.SVR.WAST.ZS,indicator::SH.SVR.WAST.ZS,Indicator
+"Prevalence of wasting, weight for height, male (% of children under 5)",SH.STA.WAST.MA.ZS,indicator::SH.STA.WAST.MA.ZS,Indicator
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,indicator::SH.STA.SUIC.P5,Indicator
+"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",SH.STA.STNT.ME.ZS,indicator::SH.STA.STNT.ME.ZS,Indicator
+"Prevalence of stunting, height for age, female (% of children under 5)",SH.STA.STNT.FE.ZS,indicator::SH.STA.STNT.FE.ZS,Indicator
+"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH.STA.POIS.P5.MA,indicator::SH.STA.POIS.P5.MA,Indicator
+"Prevalence of overweight, weight for height (modeled estimate, % of children under 5)",SH.STA.OWGH.ME.ZS,indicator::SH.STA.OWGH.ME.ZS,Indicator
+"Prevalence of overweight, weight for height, female (% of children under 5)",SH.STA.OWGH.FE.ZS,indicator::SH.STA.OWGH.FE.ZS,Indicator
+"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS,indicator::SH.STA.ODFC.UR.ZS,Indicator
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,indicator::SH.STA.MALN.ZS,Indicator
+"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS,indicator::SH.STA.HYGN.UR.ZS,Indicator
+Low-birthweight babies (% of births),SH.STA.BRTW.ZS,indicator::SH.STA.BRTW.ZS,Indicator
+"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,indicator::SH.STA.BASS.UR.ZS,Indicator
+Risk of impoverishing expenditure for surgical care (% of people at risk),SH.SGR.IRSK.ZS,indicator::SH.SGR.IRSK.ZS,Indicator
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,indicator::SH.PRV.SMOK,Indicator
+Number of maternal deaths,SH.MMR.DTHS,indicator::SH.MMR.DTHS,Indicator
+"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,indicator::SH.MED.BEDS.ZS,Indicator
+People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,indicator::SH.H2O.SMDW.ZS,Indicator
+"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,indicator::SH.H2O.BASW.UR.ZS,Indicator
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",SH.DYN.NCOM.ZS,indicator::SH.DYN.NCOM.ZS,Indicator
+"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,indicator::SH.DYN.MORT.FE,Indicator
+"Probability of dying among youth ages 20-24 years (per 1,000)",SH.DYN.2024,indicator::SH.DYN.2024,Indicator
+"Cause of death, by other COVID-19 pandemic-related outcomes (% of total)",SH.DTH.OCVD.ZS,indicator::SH.DTH.OCVD.ZS,Indicator
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,indicator::SH.DTH.INJR.ZS,Indicator
+Number of deaths ages 15-19 years,SH.DTH.1519,indicator::SH.DTH.1519,Indicator
+"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,indicator::SH.ALC.PCAP.MA.LI,Indicator
+Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,indicator::SG.GEN.PARL.ZS,Indicator
+"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,indicator::SE.XPD.TOTL.GB.ZS,Indicator
+"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,indicator::SE.TER.ENRR.MA,Indicator
+"Net bilateral aid flows from DAC donors, France (current US$)",DC.DAC.FRAL.CD,indicator::DC.DAC.FRAL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Denmark (current US$)",DC.DAC.DNKL.CD,indicator::DC.DAC.DNKL.CD,Indicator
+"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",DC.DAC.CECL.CD,indicator::DC.DAC.CECL.CD,Indicator
+"Net bilateral aid flows from DAC donors, Australia (current US$)",DC.DAC.AUSL.CD,indicator::DC.DAC.AUSL.CD,Indicator
+"Listed domestic companies, total",CM.MKT.LDOM.NO,indicator::CM.MKT.LDOM.NO,Indicator
+"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,indicator::BX.TRF.PWKR.DT.GD.ZS,Indicator
+"Portfolio equity, net inflows (BoP, current US$)",BX.PEF.TOTL.CD.WD,indicator::BX.PEF.TOTL.CD.WD,Indicator
+"Transport services (% of service exports, BoP)",BX.GSR.TRAN.ZS,indicator::BX.GSR.TRAN.ZS,Indicator
+"Goods exports (BoP, current US$)",BX.GSR.MRCH.CD,indicator::BX.GSR.MRCH.CD,Indicator
+"Communications, computer, etc. (% of service exports, BoP)",BX.GSR.CMCP.ZS,indicator::BX.GSR.CMCP.ZS,Indicator
+"Grants, excluding technical cooperation (BoP, current US$)",BX.GRT.EXTA.CD.WD,indicator::BX.GRT.EXTA.CD.WD,Indicator
+"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,indicator::BN.KLT.PTXL.CD,Indicator
+"Net trade in goods and services (BoP, current US$)",BN.GSR.GNFS.CD,indicator::BN.GSR.GNFS.CD,Indicator
+"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,indicator::BN.CAB.XOKA.CD,Indicator
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,indicator::BM.KLT.DINV.CD.WD,Indicator
+"Charges for the use of intellectual property, payments (BoP, current US$)",BM.GSR.ROYL.CD,indicator::BM.GSR.ROYL.CD,Indicator
+"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,indicator::BM.GSR.GNFS.CD,Indicator
+Cereal yield (kg per hectare),AG.YLD.CREL.KG,indicator::AG.YLD.CREL.KG,Indicator
+Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,indicator::AG.PRD.CROP.XD,Indicator
+Land area (sq. km),AG.LND.TOTL.K2,indicator::AG.LND.TOTL.K2,Indicator
+Forest area (sq. km),AG.LND.FRST.K2,indicator::AG.LND.FRST.K2,Indicator
+Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,indicator::AG.LND.EL5M.RU.ZS,Indicator
+Arable land (% of land area),AG.LND.ARBL.ZS,indicator::AG.LND.ARBL.ZS,Indicator
+Agricultural land (sq. km),AG.LND.AGRI.K2,indicator::AG.LND.AGRI.K2,Indicator
+"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,indicator::SH.STA.STNT.ZS,Indicator
+"Prevalence of stunting, height for age, male (% of children under 5)",SH.STA.STNT.MA.ZS,indicator::SH.STA.STNT.MA.ZS,Indicator
+"People using safely managed sanitation services, rural (% of rural population)",SH.STA.SMSS.RU.ZS,indicator::SH.STA.SMSS.RU.ZS,Indicator
+"Prevalence of overweight, weight for height (% of children under 5)",SH.STA.OWGH.ZS,indicator::SH.STA.OWGH.ZS,Indicator
+"Prevalence of overweight, weight for height, male (% of children under 5)",SH.STA.OWGH.MA.ZS,indicator::SH.STA.OWGH.MA.ZS,Indicator
+People practicing open defecation (% of population),SH.STA.ODFC.ZS,indicator::SH.STA.ODFC.ZS,Indicator
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,indicator::SH.STA.MMRT,Indicator
+People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,indicator::SH.STA.HYGN.ZS,Indicator
+People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,indicator::SH.STA.BASS.ZS,Indicator
+"Prevalence of current tobacco use, females (% of female adults)",SH.PRV.SMOK.FE,indicator::SH.PRV.SMOK.FE,Indicator
+Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,indicator::SH.MMR.RISK,Indicator
+"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,indicator::SH.MLR.INCD.P3,Indicator
+"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,indicator::SH.IMM.HEPB,Indicator
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,indicator::SH.H2O.BASW.ZS,Indicator
+"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,indicator::SH.DYN.NMRT,Indicator
+"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,indicator::SH.DYN.MORT.MA,Indicator
+Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,indicator::SH.DYN.AIDS.FE.ZS,Indicator
+"Probability of dying among children ages 5-9 years (per 1,000)",SH.DYN.0509,indicator::SH.DYN.0509,Indicator
+Number of under-five deaths,SH.DTH.MORT,indicator::SH.DTH.MORT,Indicator
+Number of deaths ages 20-24 years,SH.DTH.2024,indicator::SH.DTH.2024,Indicator
+Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS,indicator::SH.ANM.ALLW.ZS,Indicator
+"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,indicator::SE.XPD.TOTL.GD.ZS,Indicator
+"Tertiary education, academic staff (% female)",SE.TER.TCHR.FE.ZS,indicator::SE.TER.TCHR.FE.ZS,Indicator
+"Pupil-teacher ratio, tertiary",SE.TER.ENRL.TC.ZS,indicator::SE.TER.ENRL.TC.ZS,Indicator
+"Secondary education, teachers (% female)",SE.SEC.TCHR.FE.ZS,indicator::SE.SEC.TCHR.FE.ZS,Indicator
+Progression to secondary school (%),SE.SEC.PROG.ZS,indicator::SE.SEC.PROG.ZS,Indicator
+"Net bilateral aid flows from DAC donors, Austria (current US$)",DC.DAC.AUTL.CD,indicator::DC.DAC.AUTL.CD,Indicator
+"Stocks traded, total value (current US$)",CM.MKT.TRAD.CD,indicator::CM.MKT.TRAD.CD,Indicator
+S&P Global Equity Indices (annual % change),CM.MKT.INDX.ZG,indicator::CM.MKT.INDX.ZG,Indicator
+"Secondary income receipts (BoP, current US$)",BX.TRF.CURR.CD,indicator::BX.TRF.CURR.CD,Indicator
+"Travel services (% of service exports, BoP)",BX.GSR.TRVL.ZS,indicator::BX.GSR.TRVL.ZS,Indicator
+"Service exports (BoP, current US$)",BX.GSR.NFSV.CD,indicator::BX.GSR.NFSV.CD,Indicator
+"Primary income receipts (BoP, current US$)",BX.GSR.FCTY.CD,indicator::BX.GSR.FCTY.CD,Indicator
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,indicator::BX.GRT.TECH.CD.WD,Indicator
+"Reserves and related items (BoP, current US$)",BN.RES.INCL.CD,indicator::BN.RES.INCL.CD,Indicator
+"Net trade in goods (BoP, current US$)",BN.GSR.MRCH.CD,indicator::BN.GSR.MRCH.CD,Indicator
+Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,indicator::BN.CAB.XOKA.GD.ZS,Indicator
+"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,indicator::BM.KLT.DINV.WD.GD.ZS,Indicator
+"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,indicator::BM.GSR.TOTL.CD,Indicator
+"Insurance and financial services (% of service imports, BoP)",BM.GSR.INSF.ZS,indicator::BM.GSR.INSF.ZS,Indicator
+Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,indicator::BG.GSR.NFSV.GD.ZS,Indicator
+Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,indicator::AG.PRD.FOOD.XD,Indicator
+Rural land area (sq. km),AG.LND.TOTL.RU.K2,indicator::AG.LND.TOTL.RU.K2,Indicator
+Forest area (% of land area),AG.LND.FRST.ZS,indicator::AG.LND.FRST.ZS,Indicator
+Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,indicator::AG.LND.EL5M.UR.K2,Indicator
+Land under cereal production (hectares),AG.LND.CREL.HA,indicator::AG.LND.CREL.HA,Indicator
+Agricultural land (% of land area),AG.LND.AGRI.ZS,indicator::AG.LND.AGRI.ZS,Indicator
+"Progression to secondary school, female (%)",SE.SEC.PROG.FE.ZS,indicator::SE.SEC.PROG.FE.ZS,Indicator
+"Secondary education, vocational pupils (% female)",SE.SEC.ENRL.VO.FE.ZS,indicator::SE.SEC.ENRL.VO.FE.ZS,Indicator
+"Pupil-teacher ratio, lower secondary",SE.SEC.ENRL.LO.TC.ZS,indicator::SE.SEC.ENRL.LO.TC.ZS,Indicator
+"Secondary education, pupils",SE.SEC.ENRL,indicator::SE.SEC.ENRL,Indicator
+"Lower secondary completion rate, male (% of relevant age group)",SE.SEC.CMPT.LO.MA.ZS,indicator::SE.SEC.CMPT.LO.MA.ZS,Indicator
+"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,indicator::SE.PRM.TCHR.FE.ZS,Indicator
+"Persistence to last grade of primary, total (% of cohort)",SE.PRM.PRSL.ZS,indicator::SE.PRM.PRSL.ZS,Indicator
+"Persistence to grade 5, male (% of cohort)",SE.PRM.PRS5.MA.ZS,indicator::SE.PRM.PRS5.MA.ZS,Indicator
+"Net intake rate in grade 1, female (% of official school-age population)",SE.PRM.NINT.FE.ZS,indicator::SE.PRM.NINT.FE.ZS,Indicator
+"Gross intake ratio in first grade of primary education, total (% of relevant age group)",SE.PRM.GINT.ZS,indicator::SE.PRM.GINT.ZS,Indicator
+"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,indicator::SE.PRM.ENRR.FE,Indicator
+"Primary education, pupils",SE.PRM.ENRL,indicator::SE.PRM.ENRL,Indicator
+Primary school starting age (years),SE.PRM.AGES,indicator::SE.PRM.AGES,Indicator
+"Preprimary education, duration (years)",SE.PRE.DURS,indicator::SE.PRE.DURS,Indicator
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,indicator::SE.ENR.PRSC.FM.ZS,Indicator
+"PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP,indicator::PA.NUS.PPP,Indicator
+Terms of trade adjustment (constant LCU),NY.TTF.GNFS.KN,indicator::NY.TTF.GNFS.KN,Indicator
+Taxes less subsidies on products (constant LCU),NY.TAX.NIND.KN,indicator::NY.TAX.NIND.KN,Indicator
+Net primary income (Net income from abroad) (current LCU),NY.GSR.NFCY.CN,indicator::NY.GSR.NFCY.CN,Indicator
+Gross savings (current LCU),NY.GNS.ICTR.CN,indicator::NY.GNS.ICTR.CN,Indicator
+GNI per capita (constant LCU),NY.GNP.PCAP.KN,indicator::NY.GNP.PCAP.KN,Indicator
+"School enrollment, secondary, private (% of total secondary)",SE.SEC.PRIV.ZS,indicator::SE.SEC.PRIV.ZS,Indicator
+"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,indicator::SE.SEC.ENRR.MA,Indicator
+"Secondary education, vocational pupils",SE.SEC.ENRL.VO,indicator::SE.SEC.ENRL.VO,Indicator
+"Secondary education, general pupils (% female)",SE.SEC.ENRL.GC.FE.ZS,indicator::SE.SEC.ENRL.GC.FE.ZS,Indicator
+"Secondary education, duration (years)",SE.SEC.DURS,indicator::SE.SEC.DURS,Indicator
+"Lower secondary completion rate, female (% of relevant age group)",SE.SEC.CMPT.LO.FE.ZS,indicator::SE.SEC.CMPT.LO.FE.ZS,Indicator
+"Primary education, teachers",SE.PRM.TCHR,indicator::SE.PRM.TCHR,Indicator
+"Repeaters, primary, total (% of total enrollment)",SE.PRM.REPT.ZS,indicator::SE.PRM.REPT.ZS,Indicator
+"Persistence to last grade of primary, male (% of cohort)",SE.PRM.PRSL.MA.ZS,indicator::SE.PRM.PRSL.MA.ZS,Indicator
+"Persistence to grade 5, female (% of cohort)",SE.PRM.PRS5.FE.ZS,indicator::SE.PRM.PRS5.FE.ZS,Indicator
+"Gross intake ratio in first grade of primary education, male (% of relevant age group)",SE.PRM.GINT.MA.ZS,indicator::SE.PRM.GINT.MA.ZS,Indicator
+"School enrollment, primary (% gross)",SE.PRM.ENRR,indicator::SE.PRM.ENRR,Indicator
+"Primary education, duration (years)",SE.PRM.DURS,indicator::SE.PRM.DURS,Indicator
+"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,indicator::SE.PRM.CMPT.ZS,Indicator
+"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,indicator::SE.ENR.PRIM.FM.ZS,Indicator
+Price level index (GDP),PA.NUS.GDP.PLI,indicator::PA.NUS.GDP.PLI,Indicator
+Taxes less subsidies on products (current LCU),NY.TAX.NIND.CN,indicator::NY.TAX.NIND.CN,Indicator
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,indicator::NY.GSR.NFCY.CD,Indicator
+"Secondary education, teachers, female",SE.SEC.TCHR.FE,indicator::SE.SEC.TCHR.FE,Indicator
+"Progression to secondary school, male (%)",SE.SEC.PROG.MA.ZS,indicator::SE.SEC.PROG.MA.ZS,Indicator
+"School enrollment, secondary (% gross)",SE.SEC.ENRR,indicator::SE.SEC.ENRR,Indicator
+"Pupil-teacher ratio, secondary",SE.SEC.ENRL.TC.ZS,indicator::SE.SEC.ENRL.TC.ZS,Indicator
+"Secondary education, pupils (% female)",SE.SEC.ENRL.FE.ZS,indicator::SE.SEC.ENRL.FE.ZS,Indicator
+"Lower secondary completion rate, total (% of relevant age group)",SE.SEC.CMPT.LO.ZS,indicator::SE.SEC.CMPT.LO.ZS,Indicator
+"Repeaters, primary, female (% of female enrollment)",SE.PRM.REPT.FE.ZS,indicator::SE.PRM.REPT.FE.ZS,Indicator
+"Persistence to grade 5, total (% of cohort)",SE.PRM.PRS5.ZS,indicator::SE.PRM.PRS5.ZS,Indicator
+"Net intake rate in grade 1, male (% of official school-age population)",SE.PRM.NINT.MA.ZS,indicator::SE.PRM.NINT.MA.ZS,Indicator
+"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,indicator::SE.PRM.ENRR.MA,Indicator
+"Primary education, pupils (% female)",SE.PRM.ENRL.FE.ZS,indicator::SE.PRM.ENRL.FE.ZS,Indicator
+"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,indicator::SE.PRM.CMPT.FE.ZS,Indicator
+"Pupil-teacher ratio, preprimary",SE.PRE.ENRL.TC.ZS,indicator::SE.PRE.ENRL.TC.ZS,Indicator
+"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,indicator::SE.ENR.SECO.FM.ZS,Indicator
+Price level index (Households and NPISHs Final consumption expenditure),PA.NUS.PRVT.PLI,indicator::PA.NUS.PRVT.PLI,Indicator
+DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,indicator::PA.NUS.ATLS,Indicator
+Net secondary income (Net current transfers from abroad) (current US$),NY.TRF.NCTR.CD,indicator::NY.TRF.NCTR.CD,Indicator
+"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,indicator::SE.SEC.ENRR.FE,Indicator
+"Pupil-teacher ratio, upper secondary",SE.SEC.ENRL.UP.TC.ZS,indicator::SE.SEC.ENRL.UP.TC.ZS,Indicator
+"Secondary education, general pupils",SE.SEC.ENRL.GC,indicator::SE.SEC.ENRL.GC,Indicator
+Lower secondary school starting age (years),SE.SEC.AGES,indicator::SE.SEC.AGES,Indicator
+"Repeaters, primary, male (% of male enrollment)",SE.PRM.REPT.MA.ZS,indicator::SE.PRM.REPT.MA.ZS,Indicator
+"Persistence to last grade of primary, female (% of cohort)",SE.PRM.PRSL.FE.ZS,indicator::SE.PRM.PRSL.FE.ZS,Indicator
+"School enrollment, primary, private (% of total primary)",SE.PRM.PRIV.ZS,indicator::SE.PRM.PRIV.ZS,Indicator
+Net intake rate in grade 1 (% of official school-age population),SE.PRM.NINT.ZS,indicator::SE.PRM.NINT.ZS,Indicator
+"Gross intake ratio in first grade of primary education, female (% of relevant age group)",SE.PRM.GINT.FE.ZS,indicator::SE.PRM.GINT.FE.ZS,Indicator
+"Pupil-teacher ratio, primary",SE.PRM.ENRL.TC.ZS,indicator::SE.PRM.ENRL.TC.ZS,Indicator
+"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,indicator::SE.PRM.CMPT.MA.ZS,Indicator
+"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,indicator::SE.ENR.TERT.FM.ZS,Indicator
+"Compulsory education, duration (years)",SE.COM.DURS,indicator::SE.COM.DURS,Indicator
+"PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",PA.NUS.PRVT.PP,indicator::PA.NUS.PRVT.PP,Indicator
+"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,indicator::PA.NUS.FCRF,Indicator
+Net secondary income (Net current transfers from abroad) (current LCU),NY.TRF.NCTR.CN,indicator::NY.TRF.NCTR.CN,Indicator
+Taxes less subsidies on products (current US$),NY.TAX.NIND.CD,indicator::NY.TAX.NIND.CD,Indicator
+Gross savings (% of GDP),NY.GNS.ICTR.ZS,indicator::NY.GNS.ICTR.ZS,Indicator
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,indicator::NY.GNP.PCAP.CD,Indicator
+GNI growth (annual %),NY.GNP.MKTP.KD.ZG,indicator::NY.GNP.MKTP.KD.ZG,Indicator
+GNI (current US$),NY.GNP.MKTP.CD,indicator::NY.GNP.MKTP.CD,Indicator
+Gross domestic savings (current LCU),NY.GDS.TOTL.CN,indicator::NY.GDS.TOTL.CN,Indicator
+"GDP per capita, PPP (constant 2021 international $)",NY.GDP.PCAP.PP.KD,indicator::NY.GDP.PCAP.PP.KD,Indicator
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,indicator::NY.GDP.PCAP.KD,Indicator
+"GDP, PPP (constant 2021 international $)",NY.GDP.MKTP.PP.KD,indicator::NY.GDP.MKTP.PP.KD,Indicator
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,indicator::NY.GDP.MKTP.KD,Indicator
+Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,indicator::NY.GDP.MINR.RT.ZS,Indicator
+Gross value added at basic prices (GVA) (current LCU),NY.GDP.FCST.CN,indicator::NY.GDP.FCST.CN,Indicator
+GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,indicator::NY.GDP.DEFL.ZS.AD,Indicator
+Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,indicator::NY.GDP.COAL.RT.ZS,Indicator
+"Adjusted net savings, including particulate emission damage (% of GNI)",NY.ADJ.SVNG.GN.ZS,indicator::NY.ADJ.SVNG.GN.ZS,Indicator
+Adjusted net national income per capita (current US$),NY.ADJ.NNTY.PC.CD,indicator::NY.ADJ.NNTY.PC.CD,Indicator
+Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,indicator::NY.ADJ.NNAT.GN.ZS,Indicator
+Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,indicator::NY.ADJ.DPEM.GN.ZS,Indicator
+Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,indicator::NY.ADJ.DMIN.GN.ZS,Indicator
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,indicator::NY.ADJ.DFOR.GN.ZS,Indicator
+Adjusted savings: education expenditure (% of GNI),NY.ADJ.AEDU.GN.ZS,indicator::NY.ADJ.AEDU.GN.ZS,Indicator
+"Services, value added (annual % growth)",NV.SRV.TOTL.KD.ZG,indicator::NV.SRV.TOTL.KD.ZG,Indicator
+"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD,indicator::NV.SRV.EMPL.KD,Indicator
+Machinery and transport equipment (% of value added in manufacturing),NV.MNF.MTRN.ZS.UN,indicator::NV.MNF.MTRN.ZS.UN,Indicator
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,indicator::NV.IND.TOTL.KN,Indicator
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,indicator::NV.IND.TOTL.CD,Indicator
+"Manufacturing, value added (constant 2015 US$)",NV.IND.MANF.KD,indicator::NV.IND.MANF.KD,Indicator
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,indicator::NV.AGR.TOTL.KD.ZG,Indicator
+"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,indicator::NV.AGR.EMPL.KD,Indicator
+External balance on goods and services (current LCU),NE.RSB.GNFS.CN,indicator::NE.RSB.GNFS.CN,Indicator
+Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,indicator::NE.IMP.GNFS.KD.ZG,Indicator
+Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,indicator::NE.GDI.TOTL.ZS,Indicator
+Gross savings (current US$),NY.GNS.ICTR.CD,indicator::NY.GNS.ICTR.CD,Indicator
+GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,indicator::NY.GNP.PCAP.KD.ZG,Indicator
+"GNI, PPP (constant 2021 international $)",NY.GNP.MKTP.PP.KD,indicator::NY.GNP.MKTP.PP.KD,Indicator
+GNI (constant 2015 US$),NY.GNP.MKTP.KD,indicator::NY.GNP.MKTP.KD,Indicator
+"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,indicator::NY.GNP.ATLS.CD,Indicator
+Gross domestic savings (current US$),NY.GDS.TOTL.CD,indicator::NY.GDS.TOTL.CD,Indicator
+"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,indicator::NY.GDP.PCAP.PP.CD,Indicator
+GDP per capita (current LCU),NY.GDP.PCAP.CN,indicator::NY.GDP.PCAP.CN,Indicator
+"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,indicator::NY.GDP.MKTP.PP.CD,Indicator
+GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,indicator::NY.GDP.MKTP.CN.AD,Indicator
+Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,indicator::NY.GDP.FRST.RT.ZS,Indicator
+Gross value added at basic prices (GVA) (current US$),NY.GDP.FCST.CD,indicator::NY.GDP.FCST.CD,Indicator
+GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,indicator::NY.GDP.DEFL.ZS,Indicator
+Exports as a capacity to import (constant LCU),NY.EXP.CAPM.KN,indicator::NY.EXP.CAPM.KN,Indicator
+"Adjusted net savings, including particulate emission damage (current US$)",NY.ADJ.SVNG.CD,indicator::NY.ADJ.SVNG.CD,Indicator
+Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,indicator::NY.ADJ.NNTY.KD.ZG,Indicator
+Adjusted savings: net national savings (current US$),NY.ADJ.NNAT.CD,indicator::NY.ADJ.NNAT.CD,Indicator
+Adjusted savings: particulate emission damage (current US$),NY.ADJ.DPEM.CD,indicator::NY.ADJ.DPEM.CD,Indicator
+Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,indicator::NY.ADJ.DMIN.CD,Indicator
+Adjusted savings: net forest depletion (current US$),NY.ADJ.DFOR.CD,indicator::NY.ADJ.DFOR.CD,Indicator
+Adjusted savings: education expenditure (current US$),NY.ADJ.AEDU.CD,indicator::NY.ADJ.AEDU.CD,Indicator
+"Services, value added (constant 2015 US$)",NV.SRV.TOTL.KD,indicator::NV.SRV.TOTL.KD,Indicator
+Textiles and clothing (% of value added in manufacturing),NV.MNF.TXTL.ZS.UN,indicator::NV.MNF.TXTL.ZS.UN,Indicator
+"Food, beverages and tobacco (% of value added in manufacturing)",NV.MNF.FBTO.ZS.UN,indicator::NV.MNF.FBTO.ZS.UN,Indicator
+"Industry (including construction), value added (annual % growth)",NV.IND.TOTL.KD.ZG,indicator::NV.IND.TOTL.KD.ZG,Indicator
+"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,indicator::NV.IND.MANF.ZS,Indicator
+"Manufacturing, value added (current LCU)",NV.IND.MANF.CN,indicator::NV.IND.MANF.CN,Indicator
+"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,indicator::NV.AGR.TOTL.KD,Indicator
+Trade (% of GDP),NE.TRD.GNFS.ZS,indicator::NE.TRD.GNFS.ZS,Indicator
+External balance on goods and services (current US$),NE.RSB.GNFS.CD,indicator::NE.RSB.GNFS.CD,Indicator
+Gross savings (% of GNI),NY.GNS.ICTR.GN.ZS,indicator::NY.GNS.ICTR.GN.ZS,Indicator
+"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,indicator::NY.GNP.PCAP.PP.CD,Indicator
+GNI per capita (current LCU),NY.GNP.PCAP.CN,indicator::NY.GNP.PCAP.CN,Indicator
+GNI (constant LCU),NY.GNP.MKTP.KN,indicator::NY.GNP.MKTP.KN,Indicator
+GNI (current LCU),NY.GNP.MKTP.CN,indicator::NY.GNP.MKTP.CN,Indicator
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,indicator::NY.GDS.TOTL.ZS,Indicator
+Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,indicator::NY.GDP.PETR.RT.ZS,Indicator
+GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,indicator::NY.GDP.PCAP.KD.ZG,Indicator
+Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,indicator::NY.GDP.NGAS.RT.ZS,Indicator
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,indicator::NY.GDP.MKTP.KD.ZG,Indicator
+GDP (current US$),NY.GDP.MKTP.CD,indicator::NY.GDP.MKTP.CD,Indicator
+Gross value added at basic prices (GVA) (constant 2015 US$),NY.GDP.FCST.KD,indicator::NY.GDP.FCST.KD,Indicator
+Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,indicator::NY.GDP.DISC.CN,Indicator
+"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,indicator::NY.GDP.DEFL.KD.ZG,Indicator
+"Adjusted net savings, excluding particulate emission damage (current US$)",NY.ADJ.SVNX.CD,indicator::NY.ADJ.SVNX.CD,Indicator
+Adjusted net national income per capita (constant 2015 US$),NY.ADJ.NNTY.PC.KD,indicator::NY.ADJ.NNTY.PC.KD,Indicator
+Adjusted net national income (current US$),NY.ADJ.NNTY.CD,indicator::NY.ADJ.NNTY.CD,Indicator
+Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,indicator::NY.ADJ.DRES.GN.ZS,Indicator
+Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,indicator::NY.ADJ.DNGY.CD,Indicator
+Adjusted savings: consumption of fixed capital (current US$),NY.ADJ.DKAP.CD,indicator::NY.ADJ.DKAP.CD,Indicator
+Adjusted savings: carbon dioxide damage (current US$),NY.ADJ.DCO2.CD,indicator::NY.ADJ.DCO2.CD,Indicator
+"Services, value added (constant LCU)",NV.SRV.TOTL.KN,indicator::NV.SRV.TOTL.KN,Indicator
+"Services, value added (current US$)",NV.SRV.TOTL.CD,indicator::NV.SRV.TOTL.CD,Indicator
+Other manufacturing (% of value added in manufacturing),NV.MNF.OTHR.ZS.UN,indicator::NV.MNF.OTHR.ZS.UN,Indicator
+"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,indicator::NV.IND.TOTL.ZS,Indicator
+"Industry (including construction), value added (current LCU)",NV.IND.TOTL.CN,indicator::NV.IND.TOTL.CN,Indicator
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,indicator::NV.IND.MANF.KD.ZG,Indicator
+"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD,indicator::NV.IND.EMPL.KD,Indicator
+"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,indicator::NV.AGR.TOTL.KN,Indicator
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,indicator::NV.AGR.TOTL.CD,Indicator
+External balance on goods and services (constant LCU),NE.RSB.GNFS.KN,indicator::NE.RSB.GNFS.KN,Indicator
+Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,indicator::NE.IMP.GNFS.KN,Indicator
+"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,indicator::NY.GNP.PCAP.PP.KD,Indicator
+GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD,indicator::NY.GNP.PCAP.KD,Indicator
+"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,indicator::NY.GNP.MKTP.PP.CD,Indicator
+GNI: linked series (current LCU),NY.GNP.MKTP.CN.AD,indicator::NY.GNP.MKTP.CN.AD,Indicator
+Gross domestic income (constant LCU),NY.GDY.TOTL.KN,indicator::NY.GDY.TOTL.KN,Indicator
+Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,indicator::NY.GDP.TOTL.RT.ZS,Indicator
+GDP per capita (constant LCU),NY.GDP.PCAP.KN,indicator::NY.GDP.PCAP.KN,Indicator
+GDP per capita (current US$),NY.GDP.PCAP.CD,indicator::NY.GDP.PCAP.CD,Indicator
+GDP (constant LCU),NY.GDP.MKTP.KN,indicator::NY.GDP.MKTP.KN,Indicator
+GDP (current LCU),NY.GDP.MKTP.CN,indicator::NY.GDP.MKTP.CN,Indicator
+Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,indicator::NY.GDP.FCST.KN,Indicator
+Discrepancy in expenditure estimate of GDP (constant LCU),NY.GDP.DISC.KN,indicator::NY.GDP.DISC.KN,Indicator
+"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,indicator::NY.GDP.DEFL.KD.ZG.AD,Indicator
+"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,indicator::NY.ADJ.SVNX.GN.ZS,Indicator
+Adjusted net national income per capita (annual % growth),NY.ADJ.NNTY.PC.KD.ZG,indicator::NY.ADJ.NNTY.PC.KD.ZG,Indicator
+Adjusted net national income (constant 2015 US$),NY.ADJ.NNTY.KD,indicator::NY.ADJ.NNTY.KD,Indicator
+Adjusted savings: gross savings (% of GNI),NY.ADJ.ICTR.GN.ZS,indicator::NY.ADJ.ICTR.GN.ZS,Indicator
+Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,indicator::NY.ADJ.DNGY.GN.ZS,Indicator
+Adjusted savings: consumption of fixed capital (% of GNI),NY.ADJ.DKAP.GN.ZS,indicator::NY.ADJ.DKAP.GN.ZS,Indicator
+Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,indicator::NY.ADJ.DCO2.GN.ZS,Indicator
+"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,indicator::NV.SRV.TOTL.ZS,Indicator
+"Services, value added (current LCU)",NV.SRV.TOTL.CN,indicator::NV.SRV.TOTL.CN,Indicator
+Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,indicator::NV.MNF.TECH.ZS.UN,Indicator
+Chemicals (% of value added in manufacturing),NV.MNF.CHEM.ZS.UN,indicator::NV.MNF.CHEM.ZS.UN,Indicator
+"Industry (including construction), value added (constant 2015 US$)",NV.IND.TOTL.KD,indicator::NV.IND.TOTL.KD,Indicator
+"Manufacturing, value added (constant LCU)",NV.IND.MANF.KN,indicator::NV.IND.MANF.KN,Indicator
+"Manufacturing, value added (current US$)",NV.IND.MANF.CD,indicator::NV.IND.MANF.CD,Indicator
+"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,indicator::NV.AGR.TOTL.ZS,Indicator
+Gross capital formation (current LCU),NE.GDI.TOTL.CN,indicator::NE.GDI.TOTL.CN,Indicator
+Changes in inventories (current US$),NE.GDI.STKB.CD,indicator::NE.GDI.STKB.CD,Indicator
+Gross fixed capital formation (constant 2015 US$),NE.GDI.FTOT.KD,indicator::NE.GDI.FTOT.KD,Indicator
+"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN,indicator::NE.GDI.FPRV.CN,Indicator
+Exports of goods and services (constant 2015 US$),NE.EXP.GNFS.KD,indicator::NE.EXP.GNFS.KD,Indicator
+Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,indicator::NE.DAB.TOTL.KN,Indicator
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,indicator::NE.DAB.DEFL.ZS,Indicator
+Final consumption expenditure (constant 2015 US$),NE.CON.TOTL.KD,indicator::NE.CON.TOTL.KD,Indicator
+"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)",NE.CON.PRVT.PP.KD,indicator::NE.CON.PRVT.PP.KD,Indicator
+Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,indicator::NE.CON.PRVT.KN,Indicator
+Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,indicator::NE.CON.PRVT.CN,Indicator
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,indicator::NE.CON.GOVT.ZS,Indicator
+General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,indicator::NE.CON.GOVT.CN,Indicator
+Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,indicator::MS.MIL.XPND.GD.ZS,Indicator
+"Armed forces personnel, total",MS.MIL.TOTL.P1,indicator::MS.MIL.TOTL.P1,Indicator
+Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,indicator::IT.NET.BBND.P2,Indicator
+Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,indicator::IT.CEL.SETS.P2,Indicator
+Rail lines (total route-km),IS.RRS.TOTL.KM,indicator::IS.RRS.TOTL.KM,Indicator
+"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,indicator::IS.AIR.GOOD.MT.K1,Indicator
+Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,indicator::IQ.SPI.PIL3,Indicator
+Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,indicator::NE.IMP.GNFS.KD,Indicator
+Gross capital formation (constant LCU),NE.GDI.TOTL.KN,indicator::NE.GDI.TOTL.KN,Indicator
+Gross capital formation (current US$),NE.GDI.TOTL.CD,indicator::NE.GDI.TOTL.CD,Indicator
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,indicator::NE.GDI.FTOT.ZS,Indicator
+Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,indicator::NE.GDI.FTOT.CN,Indicator
+Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,indicator::NE.EXP.GNFS.ZS,Indicator
+Exports of goods and services (current LCU),NE.EXP.GNFS.CN,indicator::NE.EXP.GNFS.CN,Indicator
+Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,indicator::NE.DAB.TOTL.KD,Indicator
+Final consumption expenditure (% of GDP),NE.CON.TOTL.ZS,indicator::NE.CON.TOTL.ZS,Indicator
+Final consumption expenditure (current LCU),NE.CON.TOTL.CN,indicator::NE.CON.TOTL.CN,Indicator
+"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,indicator::NE.CON.PRVT.PP.CD,Indicator
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,indicator::NE.CON.PRVT.KD.ZG,Indicator
+Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,indicator::NE.CON.PRVT.CD,Indicator
+General government final consumption expenditure (constant LCU),NE.CON.GOVT.KN,indicator::NE.CON.GOVT.KN,Indicator
+General government final consumption expenditure (current US$),NE.CON.GOVT.CD,indicator::NE.CON.GOVT.CD,Indicator
+Military expenditure (current LCU),MS.MIL.XPND.CN,indicator::MS.MIL.XPND.CN,Indicator
+Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,indicator::MS.MIL.MPRT.KD,Indicator
+Fixed broadband subscriptions,IT.NET.BBND,indicator::IT.NET.BBND,Indicator
+Mobile cellular subscriptions,IT.CEL.SETS,indicator::IT.CEL.SETS,Indicator
+"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,indicator::IS.RRS.PASG.KM,Indicator
+"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,indicator::IS.AIR.DPRT,Indicator
+Imports of goods and services (current US$),NE.IMP.GNFS.CD,indicator::NE.IMP.GNFS.CD,Indicator
+Gross capital formation (constant 2015 US$),NE.GDI.TOTL.KD,indicator::NE.GDI.TOTL.KD,Indicator
+Changes in inventories (current LCU),NE.GDI.STKB.CN,indicator::NE.GDI.STKB.CN,Indicator
+Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG,indicator::NE.GDI.FTOT.KD.ZG,Indicator
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,indicator::NE.GDI.FPRV.ZS,Indicator
+Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,indicator::NE.EXP.GNFS.KD.ZG,Indicator
+Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,indicator::NE.DAB.TOTL.ZS,Indicator
+Gross national expenditure (current US$),NE.DAB.TOTL.CD,indicator::NE.DAB.TOTL.CD,Indicator
+Final consumption expenditure (annual % growth),NE.CON.TOTL.KD.ZG,indicator::NE.CON.TOTL.KD.ZG,Indicator
+Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,indicator::NE.CON.PRVT.ZS,Indicator
+Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,indicator::NE.CON.PRVT.PC.KD,Indicator
+Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,indicator::NE.CON.PRVT.CN.AD,Indicator
+"Households and NPISHs Final consumption expenditure per capita, PPP (current international $)",NE.CON.PCAP.PP.CD,indicator::NE.CON.PCAP.PP.CD,Indicator
+General government final consumption expenditure (constant 2015 US$),NE.CON.GOVT.KD,indicator::NE.CON.GOVT.KD,Indicator
+Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,indicator::MS.MIL.XPND.ZS,Indicator
+Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,indicator::MS.MIL.TOTL.TF.ZS,Indicator
+Individuals using the Internet (% of population),IT.NET.USER.ZS,indicator::IT.NET.USER.ZS,Indicator
+Secure Internet servers,IT.NET.SECR,indicator::IT.NET.SECR,Indicator
+Fixed telephone subscriptions,IT.MLT.MAIN,indicator::IT.MLT.MAIN,Indicator
+Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,indicator::IS.SHP.GCNW.XQ,Indicator
+"Air transport, passengers carried",IS.AIR.PSGR,indicator::IS.AIR.PSGR,Indicator
+Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4,indicator::IQ.SPI.PIL4,Indicator
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,indicator::NV.AGR.TOTL.CN,Indicator
+External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,indicator::NE.RSB.GNFS.ZS,Indicator
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,indicator::NE.IMP.GNFS.ZS,Indicator
+Imports of goods and services (current LCU),NE.IMP.GNFS.CN,indicator::NE.IMP.GNFS.CN,Indicator
+Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,indicator::NE.GDI.TOTL.KD.ZG,Indicator
+Changes in inventories (constant LCU),NE.GDI.STKB.KN,indicator::NE.GDI.STKB.KN,Indicator
+Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,indicator::NE.GDI.FTOT.KN,Indicator
+Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,indicator::NE.GDI.FTOT.CD,Indicator
+Exports of goods and services (constant LCU),NE.EXP.GNFS.KN,indicator::NE.EXP.GNFS.KN,Indicator
+Exports of goods and services (current US$),NE.EXP.GNFS.CD,indicator::NE.EXP.GNFS.CD,Indicator
+Gross national expenditure (current LCU),NE.DAB.TOTL.CN,indicator::NE.DAB.TOTL.CN,Indicator
+Final consumption expenditure (constant LCU),NE.CON.TOTL.KN,indicator::NE.CON.TOTL.KN,Indicator
+Final consumption expenditure (current US$),NE.CON.TOTL.CD,indicator::NE.CON.TOTL.CD,Indicator
+Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,indicator::NE.CON.PRVT.PC.KD.ZG,Indicator
+Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,indicator::NE.CON.PRVT.KD,Indicator
+"Households and NPISHs Final consumption expenditure per capita, PPP (constant 2021 international $)",NE.CON.PCAP.PP.KD,indicator::NE.CON.PCAP.PP.KD,Indicator
+General government final consumption expenditure (annual % growth),NE.CON.GOVT.KD.ZG,indicator::NE.CON.GOVT.KD.ZG,Indicator
+Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,indicator::MS.MIL.XPRT.KD,Indicator
+Military expenditure (current USD),MS.MIL.XPND.CD,indicator::MS.MIL.XPND.CD,Indicator
+Secure Internet servers (per 1 million people),IT.NET.SECR.P6,indicator::IT.NET.SECR.P6,Indicator
+Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,indicator::IT.MLT.MAIN.P2,Indicator
+Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,indicator::IS.SHP.GOOD.TU,Indicator
+"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,indicator::IS.RRS.GOOD.MT.K6,Indicator
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,indicator::IQ.SPI.PIL1,Indicator
+"Intentional homicides (per 100,000 people)",VC.IHR.PSRC.P5,indicator::VC.IHR.PSRC.P5,Indicator
+"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV,indicator::VC.IDP.NWCV,Indicator
+High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,indicator::TX.VAL.TECH.MF.ZS,Indicator
+Export value index (2015 = 100),TX.VAL.MRCH.XD.WD,indicator::TX.VAL.MRCH.XD.WD,Indicator
+Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,indicator::TX.VAL.MRCH.R6.ZS,Indicator
+Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),TX.VAL.MRCH.R2.ZS,indicator::TX.VAL.MRCH.R2.ZS,Indicator
+Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,indicator::TX.VAL.MRCH.CD.WT,Indicator
+Insurance and financial services (% of commercial service exports),TX.VAL.INSF.ZS.WT,indicator::TX.VAL.INSF.ZS.WT,Indicator
+Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,indicator::TX.VAL.AGRI.ZS.UN,Indicator
+Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,indicator::TT.PRI.MRCH.XD.WD,Indicator
+"Computer, communications and other services (% of commercial service imports)",TM.VAL.OTHR.ZS.WT,indicator::TM.VAL.OTHR.ZS.WT,Indicator
+"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,indicator::TM.VAL.MRCH.RS.ZS,Indicator
+Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,indicator::TM.VAL.MRCH.R3.ZS,Indicator
+Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,indicator::TM.VAL.MRCH.HI.ZS,Indicator
+Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,indicator::TM.VAL.MANF.ZS.UN,Indicator
+Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,indicator::TM.VAL.FOOD.ZS.UN,Indicator
+"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,indicator::TM.TAX.TCOM.WM.AR.ZS,Indicator
+"Binding coverage, primary products (%)",TM.TAX.TCOM.BC.ZS,indicator::TM.TAX.TCOM.BC.ZS,Indicator
+"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,indicator::TM.TAX.MRCH.SM.AR.ZS,Indicator
+"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,indicator::TM.TAX.MANF.WM.AR.ZS,Indicator
+"Binding coverage, manufactured products (%)",TM.TAX.MANF.BC.ZS,indicator::TM.TAX.MANF.BC.ZS,Indicator
+"International tourism, expenditures (current US$)",ST.INT.XPND.CD,indicator::ST.INT.XPND.CD,Indicator
+"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,indicator::ST.INT.TRNR.CD,Indicator
+"International tourism, number of arrivals",ST.INT.ARVL,indicator::ST.INT.ARVL,Indicator
+Urban population growth (annual %),SP.URB.GROW,indicator::SP.URB.GROW,Indicator
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,indicator::SP.POP.TOTL.FE.ZS,Indicator
+Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,indicator::SP.POP.SCIE.RD.P6,Indicator
+Age dependency ratio (% of working-age population),SP.POP.DPND,indicator::SP.POP.DPND,Indicator
+"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,indicator::SP.POP.7579.MA.5Y,Indicator
+Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,indicator::SP.POP.65UP.TO.ZS,Indicator
+"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,indicator::SP.POP.65UP.FE.ZS,Indicator
+"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,indicator::SP.POP.6064.MA.5Y,Indicator
+"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,indicator::SP.POP.5054.MA.5Y,Indicator
+"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,indicator::SP.POP.4044.MA.5Y,Indicator
+"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y,indicator::SP.POP.3034.MA.5Y,Indicator
+"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,indicator::SP.POP.2024.MA.5Y,Indicator
+"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS,indicator::SP.POP.1564.MA.ZS,Indicator
+"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y,indicator::SP.POP.1519.MA.5Y,Indicator
+"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y,indicator::SP.POP.0509.MA.5Y,Indicator
+"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS,indicator::SP.POP.0014.MA.ZS,Indicator
+"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,indicator::SP.POP.0004.MA.5Y,Indicator
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,indicator::SP.DYN.TO65.FE.ZS,Indicator
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,indicator::SP.DYN.LE00.FE.IN,Indicator
+"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,indicator::SP.DYN.AMRT.MA,Indicator
+International migrant stock (% of population),SM.POP.TOTL.ZS,indicator::SM.POP.TOTL.ZS,Indicator
+"Net official flows from UN agencies, WHO (current US$)",DT.NFL.WHOL.CD,indicator::DT.NFL.WHOL.CD,Indicator
+"Net official flows from UN agencies, UNDP (current US$)",DT.NFL.UNDP.CD,indicator::DT.NFL.UNDP.CD,Indicator
+"Net official flows from UN agencies, UNICEF (current US$)",DT.NFL.UNCF.CD,indicator::DT.NFL.UNCF.CD,Indicator
+"PPG, other private creditors (NFL, current US$)",DT.NFL.PROP.CD,indicator::DT.NFL.PROP.CD,Indicator
+"PPG, commercial banks (NFL, current US$)",DT.NFL.PCBK.CD,indicator::DT.NFL.PCBK.CD,Indicator
+"Net financial flows, others (NFL, current US$)",DT.NFL.MOTH.CD,indicator::DT.NFL.MOTH.CD,Indicator
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,indicator::DT.NFL.BOND.CD,Indicator
+"Intentional homicides, male (per 100,000 male)",VC.IHR.PSRC.MA.P5,indicator::VC.IHR.PSRC.MA.P5,Indicator
+Battle-related deaths (number of people),VC.BTL.DETH,indicator::VC.BTL.DETH,Indicator
+High-technology exports (current US$),TX.VAL.TECH.CD,indicator::TX.VAL.TECH.CD,Indicator
+Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS,indicator::TX.VAL.MRCH.WR.ZS,Indicator
+Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,indicator::TX.VAL.MRCH.R5.ZS,Indicator
+Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,indicator::TX.VAL.MRCH.R1.ZS,Indicator
+Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,indicator::TX.VAL.MRCH.AL.ZS,Indicator
+ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,indicator::TX.VAL.ICTG.ZS.UN,Indicator
+Export unit value index (2015 = 100),TX.UVI.MRCH.XD.WD,indicator::TX.UVI.MRCH.XD.WD,Indicator
+Travel services (% of commercial service imports),TM.VAL.TRVL.ZS.WT,indicator::TM.VAL.TRVL.ZS.WT,Indicator
+Import value index (2015 = 100),TM.VAL.MRCH.XD.WD,indicator::TM.VAL.MRCH.XD.WD,Indicator
+Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,indicator::TM.VAL.MRCH.R6.ZS,Indicator
+Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),TM.VAL.MRCH.R2.ZS,indicator::TM.VAL.MRCH.R2.ZS,Indicator
+Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,indicator::TM.VAL.MRCH.CD.WT,Indicator
+Insurance and financial services (% of commercial service imports),TM.VAL.INSF.ZS.WT,indicator::TM.VAL.INSF.ZS.WT,Indicator
+Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,indicator::TM.VAL.AGRI.ZS.UN,Indicator
+"Tariff rate, most favored nation, simple mean, primary products (%)",TM.TAX.TCOM.SM.FN.ZS,indicator::TM.TAX.TCOM.SM.FN.ZS,Indicator
+"Tariff rate, most favored nation, weighted mean, all products (%)",TM.TAX.MRCH.WM.FN.ZS,indicator::TM.TAX.MRCH.WM.FN.ZS,Indicator
+"Bound rate, simple mean, all products (%)",TM.TAX.MRCH.BR.ZS,indicator::TM.TAX.MRCH.BR.ZS,Indicator
+"Tariff rate, most favored nation, simple mean, manufactured products (%)",TM.TAX.MANF.SM.FN.ZS,indicator::TM.TAX.MANF.SM.FN.ZS,Indicator
+Import volume index (2015 = 100),TM.QTY.MRCH.XD.WD,indicator::TM.QTY.MRCH.XD.WD,Indicator
+"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,indicator::ST.INT.TVLX.CD,Indicator
+"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,indicator::ST.INT.RCPT.XP.ZS,Indicator
+Rural population (% of total population),SP.RUR.TOTL.ZS,indicator::SP.RUR.TOTL.ZS,Indicator
+"Population, female",SP.POP.TOTL.FE.IN,indicator::SP.POP.TOTL.FE.IN,Indicator
+Population growth (annual %),SP.POP.GROW,indicator::SP.POP.GROW,Indicator
+Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,indicator::SP.POP.BRTH.MF,Indicator
+"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y,indicator::SP.POP.7579.FE.5Y,Indicator
+"Population ages 65 and above, total",SP.POP.65UP.TO,indicator::SP.POP.65UP.TO,Indicator
+"Population ages 65 and above, female",SP.POP.65UP.FE.IN,indicator::SP.POP.65UP.FE.IN,Indicator
+"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,indicator::SP.POP.6064.FE.5Y,Indicator
+"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y,indicator::SP.POP.5054.FE.5Y,Indicator
+"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,indicator::SP.POP.4044.FE.5Y,Indicator
+"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y,indicator::SP.POP.3034.FE.5Y,Indicator
+"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,indicator::SP.POP.2024.FE.5Y,Indicator
+"Population ages 15-64, male",SP.POP.1564.MA.IN,indicator::SP.POP.1564.MA.IN,Indicator
+"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,indicator::SP.POP.1519.FE.5Y,Indicator
+"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y,indicator::SP.POP.0509.FE.5Y,Indicator
+"Population ages 0-14, male",SP.POP.0014.MA.IN,indicator::SP.POP.0014.MA.IN,Indicator
+"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,indicator::SP.POP.0004.FE.5Y,Indicator
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,indicator::SP.DYN.TFRT.IN,Indicator
+"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,indicator::SP.DYN.IMRT.MA.IN,Indicator
+"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,indicator::SP.DYN.AMRT.FE,Indicator
+Consumption of iodized salt (% of households),SN.ITK.SALT.ZS,indicator::SN.ITK.SALT.ZS,Indicator
+"International migrant stock, total",SM.POP.TOTL,indicator::SM.POP.TOTL,Indicator
+Refugees under the mandate of the UNHCR by country or territory of asylum,SM.POP.RHCR.EA,indicator::SM.POP.RHCR.EA,Indicator
+Internally displaced people (IDP) by country or territory of asylum / origin,SM.POP.IDPC,indicator::SM.POP.IDPC,Indicator
+"Net official flows from UN agencies, WFP (current US$)",DT.NFL.WFPG.CD,indicator::DT.NFL.WFPG.CD,Indicator
+"Net official flows from UN agencies, UNFPA (current US$)",DT.NFL.UNFP.CD,indicator::DT.NFL.UNFP.CD,Indicator
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,indicator::DT.NFL.RDBN.CD,Indicator
+"PNG, commercial banks and other creditors (NFL, current US$)",DT.NFL.PNGC.CD,indicator::DT.NFL.PNGC.CD,Indicator
+"PPG, bonds (NFL, current US$)",DT.NFL.PBND.CD,indicator::DT.NFL.PBND.CD,Indicator
+"Net financial flows, multilateral (NFL, current US$)",DT.NFL.MLAT.CD,indicator::DT.NFL.MLAT.CD,Indicator
+"Net financial flows, IMF concessional (NFL, current US$)",DT.NFL.IMFC.CD,indicator::DT.NFL.IMFC.CD,Indicator
+"Net financial flows, bilateral (NFL, current US$)",DT.NFL.BLAT.CD,indicator::DT.NFL.BLAT.CD,Indicator
+"IBRD loans and IDA credits (DOD, current US$)",DT.DOD.MWBG.CD,indicator::DT.DOD.MWBG.CD,Indicator
+"Short-term debt (% of exports of goods, services and primary income)",DT.DOD.DSTC.XP.ZS,indicator::DT.DOD.DSTC.XP.ZS,Indicator
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,indicator::DT.DOD.DPNG.CD,Indicator
+"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,indicator::DT.DOD.DECT.CD,Indicator
+"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,indicator::VC.IDP.NWDS,Indicator
+Transport services (% of commercial service exports),TX.VAL.TRAN.ZS.WT,indicator::TX.VAL.TRAN.ZS.WT,Indicator
+"Computer, communications and other services (% of commercial service exports)",TX.VAL.OTHR.ZS.WT,indicator::TX.VAL.OTHR.ZS.WT,Indicator
+"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,indicator::TX.VAL.MRCH.RS.ZS,Indicator
+Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,indicator::TX.VAL.MRCH.R3.ZS,Indicator
+Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,indicator::TX.VAL.MRCH.HI.ZS,Indicator
+Manufactures exports (% of merchandise exports),TX.VAL.MANF.ZS.UN,indicator::TX.VAL.MANF.ZS.UN,Indicator
+Food exports (% of merchandise exports),TX.VAL.FOOD.ZS.UN,indicator::TX.VAL.FOOD.ZS.UN,Indicator
+Medium and high-tech exports (% manufactured exports),TX.MNF.TECH.ZS.UN,indicator::TX.MNF.TECH.ZS.UN,Indicator
+Commercial service imports (current US$),TM.VAL.SERV.CD.WT,indicator::TM.VAL.SERV.CD.WT,Indicator
+Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,indicator::TM.VAL.MRCH.WL.CD,Indicator
+Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,indicator::TM.VAL.MRCH.R4.ZS,Indicator
+Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,indicator::TM.VAL.MRCH.OR.ZS,Indicator
+Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,indicator::TM.VAL.MMTL.ZS.UN,Indicator
+Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,indicator::TM.VAL.FUEL.ZS.UN,Indicator
+"Tariff rate, most favored nation, weighted mean, primary products (%)",TM.TAX.TCOM.WM.FN.ZS,indicator::TM.TAX.TCOM.WM.FN.ZS,Indicator
+"Bound rate, simple mean, primary products (%)",TM.TAX.TCOM.BR.ZS,indicator::TM.TAX.TCOM.BR.ZS,Indicator
+"Tariff rate, most favored nation, simple mean, all products (%)",TM.TAX.MRCH.SM.FN.ZS,indicator::TM.TAX.MRCH.SM.FN.ZS,Indicator
+"Tariff rate, most favored nation, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.FN.ZS,indicator::TM.TAX.MANF.WM.FN.ZS,Indicator
+"Bound rate, simple mean, manufactured products (%)",TM.TAX.MANF.BR.ZS,indicator::TM.TAX.MANF.BR.ZS,Indicator
+"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,indicator::ST.INT.XPND.MP.ZS,Indicator
+"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,indicator::ST.INT.TRNX.CD,Indicator
+"International tourism, number of departures",ST.INT.DPRT,indicator::ST.INT.DPRT,Indicator
+Urban population,SP.URB.TOTL,indicator::SP.URB.TOTL,Indicator
+Rural population,SP.RUR.TOTL,indicator::SP.RUR.TOTL,Indicator
+"Population, male",SP.POP.TOTL.MA.IN,indicator::SP.POP.TOTL.MA.IN,Indicator
+Technicians in R&D (per million people),SP.POP.TECH.RD.P6,indicator::SP.POP.TECH.RD.P6,Indicator
+"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,indicator::SP.POP.DPND.OL,Indicator
+"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,indicator::SP.POP.80UP.FE.5Y,Indicator
+"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,indicator::SP.POP.7074.FE.5Y,Indicator
+"Population ages 65 and above, male",SP.POP.65UP.MA.IN,indicator::SP.POP.65UP.MA.IN,Indicator
+"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,indicator::SP.POP.6569.FE.5Y,Indicator
+"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y,indicator::SP.POP.5559.FE.5Y,Indicator
+"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,indicator::SP.POP.4549.FE.5Y,Indicator
+"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,indicator::SP.POP.3539.FE.5Y,Indicator
+"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y,indicator::SP.POP.2529.FE.5Y,Indicator
+"Population ages 15-64, total",SP.POP.1564.TO,indicator::SP.POP.1564.TO,Indicator
+"Population ages 15-64, female",SP.POP.1564.FE.IN,indicator::SP.POP.1564.FE.IN,Indicator
+"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y,indicator::SP.POP.1014.FE.5Y,Indicator
+"Population ages 0-14, total",SP.POP.0014.TO,indicator::SP.POP.0014.TO,Indicator
+"Population ages 0-14, female",SP.POP.0014.FE.IN,indicator::SP.POP.0014.FE.IN,Indicator
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,indicator::SP.DYN.TO65.MA.ZS,Indicator
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,indicator::SP.DYN.LE00.IN,Indicator
+"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,indicator::SP.DYN.IMRT.FE.IN,Indicator
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,indicator::SP.DYN.CBRT.IN,Indicator
+Vitamin A supplementation coverage rate (% of children ages 6-59 months),SN.ITK.VITA.ZS,indicator::SN.ITK.VITA.ZS,Indicator
+Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,indicator::SN.ITK.DEFC.ZS,Indicator
+"Net official flows from UN agencies, UNHCR (current US$)",DT.NFL.UNCR.CD,indicator::DT.NFL.UNCR.CD,Indicator
+"PPG, private creditors (NFL, US$)",DT.NFL.PRVT.CD,indicator::DT.NFL.PRVT.CD,Indicator
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,indicator::DT.NFL.PCBO.CD,Indicator
+"IFC, private nonguaranteed (NFL, US$)",DT.NFL.NIFC.CD,indicator::DT.NFL.NIFC.CD,Indicator
+"Net financial flows, IBRD (NFL, current US$)",DT.NFL.MIBR.CD,indicator::DT.NFL.MIBR.CD,Indicator
+"Intentional homicides, female (per 100,000 female)",VC.IHR.PSRC.FE.P5,indicator::VC.IHR.PSRC.FE.P5,Indicator
+Travel services (% of commercial service exports),TX.VAL.TRVL.ZS.WT,indicator::TX.VAL.TRVL.ZS.WT,Indicator
+Commercial service exports (current US$),TX.VAL.SERV.CD.WT,indicator::TX.VAL.SERV.CD.WT,Indicator
+Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,indicator::TX.VAL.MRCH.WL.CD,Indicator
+Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,indicator::TX.VAL.MRCH.R4.ZS,Indicator
+Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,indicator::TX.VAL.MRCH.OR.ZS,Indicator
+Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,indicator::TX.VAL.MMTL.ZS.UN,Indicator
+Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,indicator::TX.VAL.FUEL.ZS.UN,Indicator
+Export volume index (2015 = 100),TX.QTY.MRCH.XD.WD,indicator::TX.QTY.MRCH.XD.WD,Indicator
+Transport services (% of commercial service imports),TM.VAL.TRAN.ZS.WT,indicator::TM.VAL.TRAN.ZS.WT,Indicator
+Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS,indicator::TM.VAL.MRCH.WR.ZS,Indicator
+Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,indicator::TM.VAL.MRCH.R5.ZS,Indicator
+Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,indicator::TM.VAL.MRCH.R1.ZS,Indicator
+Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,indicator::TM.VAL.MRCH.AL.ZS,Indicator
+ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,indicator::TM.VAL.ICTG.ZS.UN,Indicator
+Import unit value index (2015 = 100),TM.UVI.MRCH.XD.WD,indicator::TM.UVI.MRCH.XD.WD,Indicator
+"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,indicator::TM.TAX.TCOM.SM.AR.ZS,Indicator
+"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,indicator::TM.TAX.MRCH.WM.AR.ZS,Indicator
+"Binding coverage, all products (%)",TM.TAX.MRCH.BC.ZS,indicator::TM.TAX.MRCH.BC.ZS,Indicator
+"Tariff rate, applied, simple mean, manufactured products (%)",TM.TAX.MANF.SM.AR.ZS,indicator::TM.TAX.MANF.SM.AR.ZS,Indicator
+Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,indicator::TG.VAL.TOTL.GD.ZS,Indicator
+"International tourism, receipts for travel items (current US$)",ST.INT.TVLR.CD,indicator::ST.INT.TVLR.CD,Indicator
+"International tourism, receipts (current US$)",ST.INT.RCPT.CD,indicator::ST.INT.RCPT.CD,Indicator
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,indicator::SP.URB.TOTL.IN.ZS,Indicator
+Rural population growth (annual %),SP.RUR.TOTL.ZG,indicator::SP.RUR.TOTL.ZG,Indicator
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,indicator::SP.POP.TOTL.MA.ZS,Indicator
+"Population, total",SP.POP.TOTL,indicator::SP.POP.TOTL,Indicator
+"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,indicator::SP.POP.DPND.YG,Indicator
+"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,indicator::SP.POP.80UP.MA.5Y,Indicator
+"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,indicator::SP.POP.7074.MA.5Y,Indicator
+"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,indicator::SP.POP.65UP.MA.ZS,Indicator
+"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y,indicator::SP.POP.6569.MA.5Y,Indicator
+"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,indicator::SP.POP.5559.MA.5Y,Indicator
+"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y,indicator::SP.POP.4549.MA.5Y,Indicator
+"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,indicator::SP.POP.3539.MA.5Y,Indicator
+"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y,indicator::SP.POP.2529.MA.5Y,Indicator
+Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,indicator::SP.POP.1564.TO.ZS,Indicator
+"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,indicator::SP.POP.1564.FE.ZS,Indicator
+"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,indicator::SP.POP.1014.MA.5Y,Indicator
+Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,indicator::SP.POP.0014.TO.ZS,Indicator
+"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,indicator::SP.POP.0014.FE.ZS,Indicator
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,indicator::SP.DYN.LE00.MA.IN,Indicator
+"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,indicator::SP.DYN.IMRT.IN,Indicator
+"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,indicator::SP.DYN.CDRT.IN,Indicator
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,indicator::SP.ADO.TFRT,Indicator
+Forcibly displaced people,SM.POP.FDIP,indicator::SM.POP.FDIP,Indicator
+Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,indicator::DT.ODA.ALLD.CD,Indicator
+"Net official flows from UN agencies, UNAIDS (current US$)",DT.NFL.UNAI.CD,indicator::DT.NFL.UNAI.CD,Indicator
+"PNG, bonds (NFL, current US$)",DT.NFL.PNGB.CD,indicator::DT.NFL.PNGB.CD,Indicator
+"PPG, official creditors (NFL, US$)",DT.NFL.OFFT.CD,indicator::DT.NFL.OFFT.CD,Indicator
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,indicator::DT.NFL.MIDA.CD,Indicator
+"Net official flows from UN agencies, ILO (current US$)",DT.NFL.ILOG.CD,indicator::DT.NFL.ILOG.CD,Indicator
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",DT.NFL.DPNG.CD,indicator::DT.NFL.DPNG.CD,Indicator
+"Patent applications, nonresidents",IP.PAT.NRES,indicator::IP.PAT.NRES,Indicator
+Public private partnerships investment in water and sanitation (current US$),IE.PPN.WATR.CD,indicator::IE.PPN.WATR.CD,Indicator
+Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD,indicator::IE.PPI.WATR.CD,Indicator
+"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,indicator::IC.BUS.NDNS.ZS,Indicator
+"Human capital index plus (HCI+): overall score, total (scale 0–325)",HD_HCIP_OVRL_TO,indicator::HD_HCIP_OVRL_TO,Indicator
+"Human capital index plus (HCI+): on-the-job learning pillar score, male (scale -30–87)",HD_HCIP_OTJL_MA,indicator::HD_HCIP_OTJL_MA,Indicator
+"Human capital index plus (HCI+): health pillar score, female (scale 0–50)",HD_HCIP_HLTH_FE,indicator::HD_HCIP_HLTH_FE,Indicator
+Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,indicator::GF.XPD.BUDG.ZS,Indicator
+Subsidies and other transfers (% of expense),GC.XPN.TRFT.ZS,indicator::GC.XPN.TRFT.ZS,Indicator
+Other expense (% of expense),GC.XPN.OTHR.ZS,indicator::GC.XPN.OTHR.ZS,Indicator
+Interest payments (current LCU),GC.XPN.INTP.CN,indicator::GC.XPN.INTP.CN,Indicator
+Compensation of employees (current LCU),GC.XPN.COMP.CN,indicator::GC.XPN.COMP.CN,Indicator
+Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,indicator::GC.TAX.TOTL.GD.ZS,Indicator
+Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,indicator::GC.TAX.INTT.RV.ZS,Indicator
+Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,indicator::GC.TAX.GSRV.VA.ZS,Indicator
+Taxes on exports (current LCU),GC.TAX.EXPT.CN,indicator::GC.TAX.EXPT.CN,Indicator
+Social contributions (current LCU),GC.REV.SOCL.CN,indicator::GC.REV.SOCL.CN,Indicator
+Net lending (+) / net borrowing (-) (current LCU),GC.NLD.TOTL.CN,indicator::GC.NLD.TOTL.CN,Indicator
+"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN,indicator::GC.LBL.TOTL.CN,Indicator
+Net acquisition of financial assets (current LCU),GC.AST.TOTL.CN,indicator::GC.AST.TOTL.CN,Indicator
+Real interest rate (%),FR.INR.RINR,indicator::FR.INR.RINR,Indicator
+Wholesale price index (2010 = 100),FP.WPI.TOTL,indicator::FP.WPI.TOTL,Indicator
+Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,indicator::FM.LBL.BMNY.IR.ZS,Indicator
+Monetary Sector credit to private sector (% GDP),FM.AST.PRVT.GD.ZS,indicator::FM.AST.PRVT.GD.ZS,Indicator
+"Trademark applications, resident, by count",IP.TMK.RSCT,indicator::IP.TMK.RSCT,Indicator
+Scientific and technical journal articles,IP.JRN.ARTC.SC,indicator::IP.JRN.ARTC.SC,Indicator
+Public private partnerships investment in transport (current US$),IE.PPN.TRAN.CD,indicator::IE.PPN.TRAN.CD,Indicator
+Investment in transport with private participation (current US$),IE.PPI.TRAN.CD,indicator::IE.PPI.TRAN.CD,Indicator
+"Human capital index plus (HCI+): overall score, male (scale 0–325)",HD_HCIP_OVRL_MA,indicator::HD_HCIP_OVRL_MA,Indicator
+"Human capital index plus (HCI+): on-the-job learning pillar score, female (scale -30–87)",HD_HCIP_OTJL_FE,indicator::HD_HCIP_OTJL_FE,Indicator
+"Human capital index plus (HCI+): education pillar score, total (scale 0–188)",HD_HCIP_EDUC_TO,indicator::HD_HCIP_EDUC_TO,Indicator
+Subsidies and other transfers (current LCU),GC.XPN.TRFT.CN,indicator::GC.XPN.TRFT.CN,Indicator
+Other expense (current LCU),GC.XPN.OTHR.CN,indicator::GC.XPN.OTHR.CN,Indicator
+Goods and services expense (% of expense),GC.XPN.GSRV.ZS,indicator::GC.XPN.GSRV.ZS,Indicator
+"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,indicator::GC.TAX.YPKG.ZS,Indicator
+Tax revenue (current LCU),GC.TAX.TOTL.CN,indicator::GC.TAX.TOTL.CN,Indicator
+Taxes on international trade (current LCU),GC.TAX.INTT.CN,indicator::GC.TAX.INTT.CN,Indicator
+Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,indicator::GC.TAX.GSRV.RV.ZS,Indicator
+"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,indicator::GC.REV.XGRT.GD.ZS,Indicator
+Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,indicator::GC.REV.GOTR.ZS,Indicator
+Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,indicator::GC.NFN.TOTL.GD.ZS,Indicator
+"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,indicator::GC.DOD.TOTL.GD.ZS,Indicator
+Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,indicator::GB.XPD.RSDV.GD.ZS,Indicator
+"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,indicator::FP.CPI.TOTL.ZG,Indicator
+Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,indicator::FM.LBL.BMNY.GD.ZS,Indicator
+Net foreign assets (current LCU),FM.AST.NFRG.CN,indicator::FM.AST.NFRG.CN,Indicator
+"Patent applications, residents",IP.PAT.RESD,indicator::IP.PAT.RESD,Indicator
+"Industrial design applications, nonresident, by count",IP.IDS.NRCT,indicator::IP.IDS.NRCT,Indicator
+Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,indicator::IE.PPN.ENGY.CD,Indicator
+Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,indicator::IE.PPI.ENGY.CD,Indicator
+New businesses registered (number),IC.BUS.NREG,indicator::IC.BUS.NREG,Indicator
+"Human capital index plus (HCI+): on-the-job learning pillar score, total (scale -30–87)",HD_HCIP_OTJL_TO,indicator::HD_HCIP_OTJL_TO,Indicator
+"Human capital index plus (HCI+): health pillar score, male (scale 0–50)",HD_HCIP_HLTH_MA,indicator::HD_HCIP_HLTH_MA,Indicator
+"Human capital index plus (HCI+): education pillar score, female (scale 0–188)",HD_HCIP_EDUC_FE,indicator::HD_HCIP_EDUC_FE,Indicator
+Expense (current LCU),GC.XPN.TOTL.CN,indicator::GC.XPN.TOTL.CN,Indicator
+Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,indicator::GC.XPN.INTP.RV.ZS,Indicator
+Compensation of employees (% of expense),GC.XPN.COMP.ZS,indicator::GC.XPN.COMP.ZS,Indicator
+"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,indicator::GC.TAX.YPKG.CN,Indicator
+Other taxes (current LCU),GC.TAX.OTHR.CN,indicator::GC.TAX.OTHR.CN,Indicator
+Customs and other import duties (current LCU),GC.TAX.IMPT.CN,indicator::GC.TAX.IMPT.CN,Indicator
+Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS,indicator::GC.TAX.EXPT.ZS,Indicator
+Social contributions (% of revenue),GC.REV.SOCL.ZS,indicator::GC.REV.SOCL.ZS,Indicator
+Net lending (+) / net borrowing (-) (% of GDP),GC.NLD.TOTL.GD.ZS,indicator::GC.NLD.TOTL.GD.ZS,Indicator
+"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,indicator::GC.LBL.TOTL.GD.ZS,Indicator
+Net acquisition of financial assets (% of GDP),GC.AST.TOTL.GD.ZS,indicator::GC.AST.TOTL.GD.ZS,Indicator
+Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,indicator::FS.AST.PRVT.GD.ZS,Indicator
+"Trademark applications, nonresident, by count",IP.TMK.NRCT,indicator::IP.TMK.NRCT,Indicator
+"Industrial design applications, resident, by count",IP.IDS.RSCT,indicator::IP.IDS.RSCT,Indicator
+"Human capital index plus (HCI+): overall score, female (scale 0–325)",HD_HCIP_OVRL_FE,indicator::HD_HCIP_OVRL_FE,Indicator
+"Human capital index plus (HCI+): health pillar score, total (scale 0–50)",HD_HCIP_HLTH_TO,indicator::HD_HCIP_HLTH_TO,Indicator
+"Human capital index plus (HCI+): education pillar score, male (scale 0–188)",HD_HCIP_EDUC_MA,indicator::HD_HCIP_EDUC_MA,Indicator
+Expense (% of GDP),GC.XPN.TOTL.GD.ZS,indicator::GC.XPN.TOTL.GD.ZS,Indicator
+Interest payments (% of expense),GC.XPN.INTP.ZS,indicator::GC.XPN.INTP.ZS,Indicator
+Goods and services expense (current LCU),GC.XPN.GSRV.CN,indicator::GC.XPN.GSRV.CN,Indicator
+"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,indicator::GC.TAX.YPKG.RV.ZS,Indicator
+Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,indicator::GC.TAX.OTHR.RV.ZS,Indicator
+Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,indicator::GC.TAX.IMPT.ZS,Indicator
+Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,indicator::GC.TAX.GSRV.CN,Indicator
+"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,indicator::GC.REV.XGRT.CN,Indicator
+Grants and other revenue (current LCU),GC.REV.GOTR.CN,indicator::GC.REV.GOTR.CN,Indicator
+Net investment in nonfinancial assets (current LCU),GC.NFN.TOTL.CN,indicator::GC.NFN.TOTL.CN,Indicator
+"Central government debt, total (current LCU)",GC.DOD.TOTL.CN,indicator::GC.DOD.TOTL.CN,Indicator
+"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS,indicator::FS.AST.CGOV.GD.ZS,Indicator
+Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,indicator::FM.AST.CGOV.ZG.M3,Indicator
+"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,indicator::FI.RES.TOTL.CD,Indicator
+Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,indicator::FB.AST.NPER.ZS,Indicator
+Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,indicator::ER.H2O.INTR.PC,Indicator
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,indicator::ER.H2O.FWST.ZS,Indicator
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,indicator::ER.GDP.FWTL.M3.KD,Indicator
+Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,indicator::EN.URB.MCTY.TL.ZS,Indicator
+Population density (people per sq. km of land area),EN.POP.DNST,indicator::EN.POP.DNST,Indicator
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.N2O.ZG.AR5,indicator::EN.GHG.N2O.ZG.AR5,Indicator
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.N2O.MT.CE.AR5,indicator::EN.GHG.N2O.MT.CE.AR5,Indicator
+Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),EN.GHG.N2O.BU.MT.CE.AR5,indicator::EN.GHG.N2O.BU.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,indicator::EN.GHG.CO2.PI.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),EN.GHG.CO2.LU.OL.MT.CE.AR5,indicator::EN.GHG.CO2.LU.OL.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,indicator::EN.GHG.CO2.IP.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,indicator::EN.GHG.CO2.AG.MT.CE.AR5,Indicator
+Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CH4.PI.MT.CE.AR5,indicator::EN.GHG.CH4.PI.MT.CE.AR5,Indicator
+Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CH4.FE.MT.CE.AR5,indicator::EN.GHG.CH4.FE.MT.CE.AR5,Indicator
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),EN.GHG.ALL.MT.CE.AR5,indicator::EN.GHG.ALL.MT.CE.AR5,Indicator
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,indicator::EN.ATM.PM25.MC.T2.ZS,Indicator
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,indicator::EG.USE.ELEC.KH.PC,Indicator
+Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,indicator::EG.USE.COMM.CL.ZS,Indicator
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,indicator::EG.FEC.RNEW.ZS,Indicator
+Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,indicator::EG.ELC.PETR.ZS,Indicator
+Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,indicator::EG.ELC.HYRO.ZS,Indicator
+"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,indicator::EG.ELC.ACCS.UR.ZS,Indicator
+"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,indicator::EG.CFT.ACCS.UR.ZS,Indicator
+"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",DT.TDS.DPPG.XP.ZS,indicator::DT.TDS.DPPG.XP.ZS,Indicator
+"IMF repurchases and charges (TDS, current US$)",DT.TDS.DIMF.CD,indicator::DT.TDS.DIMF.CD,Indicator
+Net ODA received (% of central government expense),DT.ODA.ODAT.XP.ZS,indicator::DT.ODA.ODAT.XP.ZS,Indicator
+Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS,indicator::DT.ODA.ODAT.GN.ZS,Indicator
+Total reserves minus gold (current US$),FI.RES.XGLD.CD,indicator::FI.RES.XGLD.CD,Indicator
+"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,indicator::FB.CBK.BRCH.P5,Indicator
+Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,indicator::ER.PTD.TOTL.ZS,Indicator
+"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,indicator::ER.H2O.INTR.K3,Indicator
+"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,indicator::ER.H2O.FWIN.ZS,Indicator
+Total fisheries production (metric tons),ER.FSH.PROD.MT,indicator::ER.FSH.PROD.MT,Indicator
+Population in urban agglomerations of more than 1 million,EN.URB.MCTY,indicator::EN.URB.MCTY,Indicator
+Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,indicator::EN.POP.EL5M.ZS,Indicator
+Nitrous oxide (N2O) emissions from Waste (Mt CO2e),EN.GHG.N2O.WA.MT.CE.AR5,indicator::EN.GHG.N2O.WA.MT.CE.AR5,Indicator
+Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),EN.GHG.N2O.IP.MT.CE.AR5,indicator::EN.GHG.N2O.IP.MT.CE.AR5,Indicator
+Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),EN.GHG.N2O.AG.MT.CE.AR5,indicator::EN.GHG.N2O.AG.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,indicator::EN.GHG.CO2.TR.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,indicator::EN.GHG.CO2.PC.CE.AR5,Indicator
+Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),EN.GHG.CO2.LU.MT.CE.AR5,indicator::EN.GHG.CO2.LU.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,indicator::EN.GHG.CO2.IC.MT.CE.AR5,Indicator
+Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CH4.ZG.AR5,indicator::EN.GHG.CH4.ZG.AR5,Indicator
+Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CH4.MT.CE.AR5,indicator::EN.GHG.CH4.MT.CE.AR5,Indicator
+Methane (CH4) emissions from Building (Energy) (Mt CO2e),EN.GHG.CH4.BU.MT.CE.AR5,indicator::EN.GHG.CH4.BU.MT.CE.AR5,Indicator
+Total greenhouse gas emissions including LULUCF (Mt CO2e),EN.GHG.ALL.LU.MT.CE.AR5,indicator::EN.GHG.ALL.LU.MT.CE.AR5,Indicator
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,indicator::EN.ATM.PM25.MC.T1.ZS,Indicator
+Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,indicator::EG.USE.CRNW.ZS,Indicator
+"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,indicator::EG.IMP.CONS.ZS,Indicator
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,indicator::EG.ELC.RNWX.ZS,Indicator
+Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,indicator::EG.ELC.NUCL.ZS,Indicator
+"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,indicator::EG.ELC.FOSL.ZS,Indicator
+"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,indicator::EG.ELC.ACCS.RU.ZS,Indicator
+"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,indicator::EG.CFT.ACCS.RU.ZS,Indicator
+Public and publicly guaranteed debt service (% of GNI),DT.TDS.DPPG.GN.ZS,indicator::DT.TDS.DPPG.GN.ZS,Indicator
+Total debt service (% of GNI),DT.TDS.DECT.GN.ZS,indicator::DT.TDS.DECT.GN.ZS,Indicator
+Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,indicator::DT.ODA.ODAT.PC.ZS,Indicator
+Net ODA received (% of gross capital formation),DT.ODA.ODAT.GI.ZS,indicator::DT.ODA.ODAT.GI.ZS,Indicator
+Net official development assistance and official aid received (constant 2023 US$),DT.ODA.ALLD.KD,indicator::DT.ODA.ALLD.KD,Indicator
+Broad money growth (annual %),FM.LBL.BMNY.ZG,indicator::FM.LBL.BMNY.ZG,Indicator
+Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,indicator::FM.AST.PRVT.ZG.M3,Indicator
+Total reserves (% of total external debt),FI.RES.TOTL.DT.ZS,indicator::FI.RES.TOTL.DT.ZS,Indicator
+"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,indicator::FB.ATM.TOTL.P5,Indicator
+Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,indicator::ER.LND.PTLD.ZS,Indicator
+"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,indicator::ER.H2O.FWTL.K3,Indicator
+"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,indicator::ER.H2O.FWAG.ZS,Indicator
+Aquaculture production (metric tons),ER.FSH.AQUA.MT,indicator::ER.FSH.AQUA.MT,Indicator
+Population in largest city,EN.URB.LCTY,indicator::EN.URB.LCTY,Indicator
+Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,indicator::EN.POP.EL5M.RU.ZS,Indicator
+Total greenhouse gas emissions excluding LULUCF (% change from 1990),EN.GHG.TOT.ZG.AR5,indicator::EN.GHG.TOT.ZG.AR5,Indicator
+Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.N2O.PI.MT.CE.AR5,indicator::EN.GHG.N2O.PI.MT.CE.AR5,Indicator
+Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.N2O.FE.MT.CE.AR5,indicator::EN.GHG.N2O.FE.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,indicator::EN.GHG.CO2.ZG.AR5,Indicator
+Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,indicator::EN.GHG.CO2.RT.GDP.KD,Indicator
+Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),EN.GHG.CO2.LU.OS.MT.CE.AR5,indicator::EN.GHG.CO2.LU.OS.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),EN.GHG.CO2.LU.DF.MT.CE.AR5,indicator::EN.GHG.CO2.LU.DF.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,indicator::EN.GHG.CO2.BU.MT.CE.AR5,Indicator
+Methane (CH4) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CH4.TR.MT.CE.AR5,indicator::EN.GHG.CH4.TR.MT.CE.AR5,Indicator
+Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CH4.IC.MT.CE.AR5,indicator::EN.GHG.CH4.IC.MT.CE.AR5,Indicator
+Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.ALL.PC.CE.AR5,indicator::EN.GHG.ALL.PC.CE.AR5,Indicator
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,indicator::EN.ATM.PM25.MC.T3.ZS,Indicator
+Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,indicator::EG.USE.PCAP.KG.OE,Indicator
+Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,indicator::EG.USE.COMM.FO.ZS,Indicator
+GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,indicator::EG.GDP.PUSE.KO.PP,Indicator
+Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,indicator::EG.ELC.RNEW.ZS,Indicator
+Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,indicator::EG.ELC.LOSS.ZS,Indicator
+Access to electricity (% of population),EG.ELC.ACCS.ZS,indicator::EG.ELC.ACCS.ZS,Indicator
+Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,indicator::EG.CFT.ACCS.ZS,Indicator
+"Multilateral debt service (TDS, current US$)",DT.TDS.MLAT.CD,indicator::DT.TDS.MLAT.CD,Indicator
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,indicator::DT.TDS.DPPF.XP.ZS,Indicator
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,indicator::DT.TDS.DECT.CD,Indicator
+Net official development assistance received (constant 2023 US$),DT.ODA.ODAT.KD,indicator::DT.ODA.ODAT.KD,Indicator
+Lending interest rate (%),FR.INR.LEND,indicator::FR.INR.LEND,Indicator
+Consumer price index (2010 = 100),FP.CPI.TOTL,indicator::FP.CPI.TOTL,Indicator
+Broad money (current LCU),FM.LBL.BMNY.CN,indicator::FM.LBL.BMNY.CN,Indicator
+Net domestic credit (current LCU),FM.AST.DOMS.CN,indicator::FM.AST.DOMS.CN,Indicator
+Total reserves in months of imports,FI.RES.TOTL.MO,indicator::FI.RES.TOTL.MO,Indicator
+Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS,indicator::FD.AST.PRVT.GD.ZS,Indicator
+Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,indicator::FB.BNK.CAPA.ZS,Indicator
+Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,indicator::ER.MRN.PTMR.ZS,Indicator
+"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,indicator::ER.H2O.FWTL.ZS,Indicator
+"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,indicator::ER.H2O.FWDM.ZS,Indicator
+Capture fisheries production (metric tons),ER.FSH.CAPT.MT,indicator::ER.FSH.CAPT.MT,Indicator
+Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,indicator::EN.URB.LCTY.UR.ZS,Indicator
+Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,indicator::EN.POP.EL5M.UR.ZS,Indicator
+Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),EN.GHG.N2O.TR.MT.CE.AR5,indicator::EN.GHG.N2O.TR.MT.CE.AR5,Indicator
+Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.N2O.IC.MT.CE.AR5,indicator::EN.GHG.N2O.IC.MT.CE.AR5,Indicator
+F-gases emissions from Industrial Processes (Mt CO2e),EN.GHG.FGAS.IP.MT.CE.AR5,indicator::EN.GHG.FGAS.IP.MT.CE.AR5,Indicator
+Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,indicator::EN.GHG.CO2.RT.GDP.PP.KD,Indicator
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,indicator::EN.GHG.CO2.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),EN.GHG.CO2.LU.FL.MT.CE.AR5,indicator::EN.GHG.CO2.LU.FL.MT.CE.AR5,Indicator
+Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,indicator::EN.GHG.CO2.FE.MT.CE.AR5,Indicator
+Methane (CH4) emissions from Waste (Mt CO2e),EN.GHG.CH4.WA.MT.CE.AR5,indicator::EN.GHG.CH4.WA.MT.CE.AR5,Indicator
+Methane (CH4) emissions from Industrial Processes (Mt CO2e),EN.GHG.CH4.IP.MT.CE.AR5,indicator::EN.GHG.CH4.IP.MT.CE.AR5,Indicator
+Methane (CH4) emissions from Agriculture (Mt CO2e),EN.GHG.CH4.AG.MT.CE.AR5,indicator::EN.GHG.CH4.AG.MT.CE.AR5,Indicator
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,indicator::EN.ATM.PM25.MC.ZS,Indicator
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,indicator::EN.ATM.PM25.MC.M3,Indicator
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,indicator::EG.USE.COMM.GD.PP.KD,Indicator
+GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,indicator::EG.GDP.PUSE.KO.PP.KD,Indicator
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,indicator::EG.ELC.RNWX.KH,Indicator
+Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,indicator::EG.ELC.NGAS.ZS,Indicator
+Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,indicator::EG.ELC.COAL.ZS,Indicator
+Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,indicator::EG.EGY.PRIM.PP.KD,Indicator
+Multilateral debt service (% of public and publicly guaranteed debt service),DT.TDS.MLAT.PG.ZS,indicator::DT.TDS.MLAT.PG.ZS,Indicator
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",DT.TDS.DPPG.CD,indicator::DT.TDS.DPPG.CD,Indicator
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,indicator::DT.TDS.DECT.EX.ZS,Indicator
+"Net ODA received (% of imports of goods, services and primary income)",DT.ODA.ODAT.MP.ZS,indicator::DT.ODA.ODAT.MP.ZS,Indicator
+Net official development assistance received (current US$),DT.ODA.ODAT.CD,indicator::DT.ODA.ODAT.CD,Indicator
+Average transaction cost of sending remittances to a specific country (%),SI.RMT.COST.IB.ZS,indicator::SI.RMT.COST.IB.ZS,Indicator
+"Net bilateral aid flows from DAC donors, Slovenia (current US$)",DC.DAC.SVNL.CD,indicator::DC.DAC.SVNL.CD,Indicator
+Diarrhea treatment (% of children under 5 who received ORS packet),SH.STA.ORTH,indicator::SH.STA.ORTH,Indicator
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,indicator::SH.STA.BRTC.ZS,Indicator
+Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS,indicator::SH.MLR.TRET.ZS,Indicator
+Women who believe a husband is justified in beating his wife when she neglects the children (%),SG.VAW.NEGL.ZS,indicator::SG.VAW.NEGL.ZS,Indicator
+Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),SG.VAW.1549.ZS,indicator::SG.VAW.1549.ZS,Indicator
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,indicator::SE.TER.CUAT.BA.ZS,Indicator
+Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),SH.STA.ORCF.ZS,indicator::SH.STA.ORCF.ZS,Indicator
+Exclusive breastfeeding (% of children under 6 months),SH.STA.BFED.ZS,indicator::SH.STA.BFED.ZS,Indicator
+ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,indicator::SH.STA.ARIC.ZS,Indicator
+Use of insecticide-treated bed nets (% of under-5 population),SH.MLR.NETS.ZS,indicator::SH.MLR.NETS.ZS,Indicator
+Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS,indicator::SH.FPL.SATM.ZS,Indicator
+Women who believe a husband is justified in beating his wife when she goes out without telling him (%),SG.VAW.GOES.ZS,indicator::SG.VAW.GOES.ZS,Indicator
+"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",SG.DMK.ALLD.FN.ZS,indicator::SG.DMK.ALLD.FN.ZS,Indicator
+"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.BA.MA.ZS,indicator::SE.TER.CUAT.BA.MA.ZS,Indicator
+Women who believe a husband is justified in beating his wife (any of five reasons) (%),SG.VAW.REAS.ZS,indicator::SG.VAW.REAS.ZS,Indicator
+Women who believe a husband is justified in beating his wife when she argues with him (%),SG.VAW.ARGU.ZS,indicator::SG.VAW.ARGU.ZS,Indicator
+Pregnant women receiving prenatal care (%),SH.STA.ANVC.ZS,indicator::SH.STA.ANVC.ZS,Indicator
+"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,indicator::SH.MED.CMHW.P3,Indicator
+Women who believe a husband is justified in beating his wife when she refuses sex with him (%),SG.VAW.REFU.ZS,indicator::SG.VAW.REFU.ZS,Indicator
+Women who believe a husband is justified in beating his wife when she burns the food (%),SG.VAW.BURN.ZS,indicator::SG.VAW.BURN.ZS,Indicator
+"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.BA.FE.ZS,indicator::SE.TER.CUAT.BA.FE.ZS,Indicator
+Trained teachers in lower secondary education (% of total teachers),SE.SEC.TCAQ.LO.ZS,indicator::SE.SEC.TCAQ.LO.ZS,Indicator
+"Trained teachers in lower secondary education, female (% of female teachers)",SE.SEC.TCAQ.LO.FE.ZS,indicator::SE.SEC.TCAQ.LO.FE.ZS,Indicator
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,indicator::SE.SEC.CUAT.LO.ZS,Indicator
+"Children out of school, male (% of male primary school age)",SE.PRM.UNER.MA.ZS,indicator::SE.PRM.UNER.MA.ZS,Indicator
+"Children out of school, primary",SE.PRM.UNER,indicator::SE.PRM.UNER,Indicator
+"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",SE.PRM.CUAT.FE.ZS,indicator::SE.PRM.CUAT.FE.ZS,Indicator
+"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,indicator::SE.ADT.1524.LT.FM.ZS,Indicator
+"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.LO.MA.ZS,indicator::SE.SEC.CUAT.LO.MA.ZS,Indicator
+"Children out of school, primary, male",SE.PRM.UNER.MA,indicator::SE.PRM.UNER.MA,Indicator
+"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,indicator::SE.ADT.1524.LT.FE.ZS,Indicator
+"Trained teachers in lower secondary education, male (% of male teachers)",SE.SEC.TCAQ.LO.MA.ZS,indicator::SE.SEC.TCAQ.LO.MA.ZS,Indicator
+Children out of school (% of primary school age),SE.PRM.UNER.ZS,indicator::SE.PRM.UNER.ZS,Indicator
+"Children out of school, primary, female",SE.PRM.UNER.FE,indicator::SE.PRM.UNER.FE,Indicator
+"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",SE.PRM.CUAT.MA.ZS,indicator::SE.PRM.CUAT.MA.ZS,Indicator
+"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,indicator::SE.ADT.1524.LT.MA.ZS,Indicator
+"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.LO.FE.ZS,indicator::SE.SEC.CUAT.LO.FE.ZS,Indicator
+"Children out of school, female (% of female primary school age)",SE.PRM.UNER.FE.ZS,indicator::SE.PRM.UNER.FE.ZS,Indicator
+"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS,indicator::SE.PRM.CUAT.ZS,Indicator
+"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,indicator::SE.ADT.1524.LT.ZS,Indicator
+Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,indicator::LP.LPI.OVRL.XQ,Indicator
+Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),LP.LPI.CUST.XQ,indicator::LP.LPI.CUST.XQ,Indicator
+Logistics performance index: Competence and quality of logistics services (1=low to 5=high),LP.LPI.LOGS.XQ,indicator::LP.LPI.LOGS.XQ,Indicator
+"Lead time to import, median case (days)",LP.IMP.DURS.MD,indicator::LP.IMP.DURS.MD,Indicator
+Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2,indicator::IQ.SPI.PIL2,Indicator
+Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),LP.LPI.TIME.XQ,indicator::LP.LPI.TIME.XQ,Indicator
+Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),LP.LPI.INFR.XQ,indicator::LP.LPI.INFR.XQ,Indicator
+Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL,indicator::IQ.SPI.OVRL,Indicator
+Logistics performance index: Ability to track and trace consignments (1=low to 5=high),LP.LPI.TRAC.XQ,indicator::LP.LPI.TRAC.XQ,Indicator
+Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),LP.LPI.ITRN.XQ,indicator::LP.LPI.ITRN.XQ,Indicator
+"Lead time to export, median case (days)",LP.EXP.DURS.MD,indicator::LP.EXP.DURS.MD,Indicator
+Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5,indicator::IQ.SPI.PIL5,Indicator
+"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,indicator::SP.REG.BRTH.MA.ZS,Indicator
+Women who were first married by age 15 (% of women ages 20-24),SP.M15.2024.FE.ZS,indicator::SP.M15.2024.FE.ZS,Indicator
+"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,indicator::SP.DYN.CONU.ZS,Indicator
+Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT,indicator::SP.UWT.TFRT,Indicator
+Completeness of birth registration (%),SP.REG.BRTH.ZS,indicator::SP.REG.BRTH.ZS,Indicator
+"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,indicator::SP.REG.BRTH.FE.ZS,Indicator
+Female headed households (% of households with a female head),SP.HOU.FEMA.ZS,indicator::SP.HOU.FEMA.ZS,Indicator
+"Contraceptive prevalence, any modern method (% of married women ages 15-49)",SP.DYN.CONM.ZS,indicator::SP.DYN.CONM.ZS,Indicator
+"Completeness of birth registration, rural (%)",SP.REG.BRTH.RU.ZS,indicator::SP.REG.BRTH.RU.ZS,Indicator
+Women who were first married by age 18 (% of women ages 20-24),SP.M18.2024.FE.ZS,indicator::SP.M18.2024.FE.ZS,Indicator
+"Completeness of birth registration, urban (%)",SP.REG.BRTH.UR.ZS,indicator::SP.REG.BRTH.UR.ZS,Indicator
+Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),SP.MTR.1519.ZS,indicator::SP.MTR.1519.ZS,Indicator
+Wanted fertility rate (births per woman),SP.DYN.WFRT,indicator::SP.DYN.WFRT,Indicator
+Bank liquid reserves to bank assets ratio (%),FD.RES.LIQU.AS.ZS,indicator::FD.RES.LIQU.AS.ZS,Indicator
+Trained teachers in secondary education (% of total teachers),SE.SEC.TCAQ.ZS,indicator::SE.SEC.TCAQ.ZS,Indicator
+Trained teachers in upper secondary education (% of total teachers),SE.SEC.TCAQ.UP.ZS,indicator::SE.SEC.TCAQ.UP.ZS,Indicator
+"Trained teachers in upper secondary education, female (% of female teachers)",SE.SEC.TCAQ.UP.FE.ZS,indicator::SE.SEC.TCAQ.UP.FE.ZS,Indicator
+"Trained teachers in primary education, female (% of female teachers)",SE.PRM.TCAQ.FE.ZS,indicator::SE.PRM.TCAQ.FE.ZS,Indicator
+"School enrollment, preprimary, male (% gross)",SE.PRE.ENRR.MA,indicator::SE.PRE.ENRR.MA,Indicator
+Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.MA,indicator::SE.LPV.PRIM.MA,Indicator
+Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM.FE,indicator::SE.LPV.PRIM.FE,Indicator
+"Trained teachers in secondary education, male (% of male teachers)",SE.SEC.TCAQ.MA.ZS,indicator::SE.SEC.TCAQ.MA.ZS,Indicator
+"Trained teachers in secondary education, female (% of female teachers)",SE.SEC.TCAQ.FE.ZS,indicator::SE.SEC.TCAQ.FE.ZS,Indicator
+"School enrollment, preprimary, female (% gross)",SE.PRE.ENRR.FE,indicator::SE.PRE.ENRR.FE,Indicator
+Male primary school age children out-of-school (%),SE.LPV.PRIM.SD.MA,indicator::SE.LPV.PRIM.SD.MA,Indicator
+Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD.MA,indicator::SE.LPV.PRIM.LD.MA,Indicator
+Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),SE.LPV.PRIM,indicator::SE.LPV.PRIM,Indicator
+"Trained teachers in upper secondary education, male (% of male teachers)",SE.SEC.TCAQ.UP.MA.ZS,indicator::SE.SEC.TCAQ.UP.MA.ZS,Indicator
+"Trained teachers in primary education, male (% of male teachers)",SE.PRM.TCAQ.MA.ZS,indicator::SE.PRM.TCAQ.MA.ZS,Indicator
+Primary school age children out-of-school (%),SE.LPV.PRIM.SD,indicator::SE.LPV.PRIM.SD,Indicator
+Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD,indicator::SE.LPV.PRIM.LD,Indicator
+Trained teachers in primary education (% of total teachers),SE.PRM.TCAQ.ZS,indicator::SE.PRM.TCAQ.ZS,Indicator
+"School enrollment, preprimary (% gross)",SE.PRE.ENRR,indicator::SE.PRE.ENRR,Indicator
+Female primary school age children out-of-school (%),SE.LPV.PRIM.SD.FE,indicator::SE.LPV.PRIM.SD.FE,Indicator
+Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD.FE,indicator::SE.LPV.PRIM.LD.FE,Indicator
+"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,indicator::FX.OWN.TOTL.SO.ZS,Indicator
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,indicator::FX.OWN.TOTL.FE.ZS,Indicator
+"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,indicator::FX.OWN.TOTL.PL.ZS,Indicator
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,indicator::FX.OWN.TOTL.60.ZS,Indicator
+"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,indicator::FX.OWN.TOTL.YG.ZS,Indicator
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,indicator::FX.OWN.TOTL.MA.ZS,Indicator
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,indicator::FX.OWN.TOTL.ZS,Indicator
+"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,indicator::FX.OWN.TOTL.OL.ZS,Indicator
+"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,indicator::FX.OWN.TOTL.40.ZS,Indicator
+Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,indicator::FM.AST.DOMO.ZG.M3,Indicator
+"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,indicator::SL.UEM.NEET.MA.ZS,Indicator
+Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,indicator::SL.UEM.INTM.ZS,Indicator
+"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,indicator::SL.UEM.BASC.MA.ZS,Indicator
+"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,indicator::SL.UEM.ADVN.FE.ZS,Indicator
+"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,indicator::SL.UEM.1524.MA.NE.ZS,Indicator
+Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,indicator::SL.TLF.INTM.ZS,Indicator
+"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SL.TLF.CACT.NE.ZS,indicator::SL.TLF.CACT.NE.ZS,Indicator
+Ratio of female to male labor force participation rate (%) (national estimate),SL.TLF.CACT.FM.NE.ZS,indicator::SL.TLF.CACT.FM.NE.ZS,Indicator
+"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,indicator::SL.TLF.BASC.MA.ZS,Indicator
+"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,indicator::SL.TLF.ADVN.FE.ZS,Indicator
+"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,indicator::SL.EMP.TOTL.SP.MA.NE.ZS,Indicator
+"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,indicator::SL.UEM.TOTL.FE.NE.ZS,Indicator
+"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,indicator::SL.UEM.INTM.MA.ZS,Indicator
+"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,indicator::SL.UEM.BASC.FE.ZS,Indicator
+"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,indicator::SL.TLF.PART.ZS,Indicator
+"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,indicator::SL.TLF.INTM.MA.ZS,Indicator
+"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,indicator::SL.TLF.BASC.FE.ZS,Indicator
+"Labor force participation rate for ages 15-24, total (%) (national estimate)",SL.TLF.ACTI.1524.NE.ZS,indicator::SL.TLF.ACTI.1524.NE.ZS,Indicator
+"Labor force participation rate for ages 15-24, female (%) (national estimate)",SL.TLF.ACTI.1524.FE.NE.ZS,indicator::SL.TLF.ACTI.1524.FE.NE.ZS,Indicator
+"Employment to population ratio, ages 15-24, male (%) (national estimate)",SL.EMP.1524.SP.MA.NE.ZS,indicator::SL.EMP.1524.SP.MA.NE.ZS,Indicator
+"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,indicator::SL.UEM.TOTL.MA.NE.ZS,Indicator
+Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,indicator::SL.UEM.BASC.ZS,Indicator
+"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,indicator::SL.UEM.ADVN.MA.ZS,Indicator
+"Part time employment, female (% of total female employment)",SL.TLF.PART.FE.ZS,indicator::SL.TLF.PART.FE.ZS,Indicator
+Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,indicator::SL.TLF.BASC.ZS,Indicator
+"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,indicator::SL.TLF.ADVN.MA.ZS,Indicator
+"Labor force participation rate for ages 15-24, male (%) (national estimate)",SL.TLF.ACTI.1524.MA.NE.ZS,indicator::SL.TLF.ACTI.1524.MA.NE.ZS,Indicator
+Female share of employment in senior and middle management (%),SL.EMP.SMGT.FE.ZS,indicator::SL.EMP.SMGT.FE.ZS,Indicator
+"Employment to population ratio, ages 15-24, total (%) (national estimate)",SL.EMP.1524.SP.NE.ZS,indicator::SL.EMP.1524.SP.NE.ZS,Indicator
+"Employment to population ratio, ages 15-24, female (%) (national estimate)",SL.EMP.1524.SP.FE.NE.ZS,indicator::SL.EMP.1524.SP.FE.NE.ZS,Indicator
+"Net official flows from UN agencies, CERF (current US$)",DT.NFL.CERF.CD,indicator::DT.NFL.CERF.CD,Indicator
+"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,indicator::SL.UEM.NEET.ZS,Indicator
+"Share of youth not in education, employment or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS,indicator::SL.UEM.NEET.FE.ZS,Indicator
+"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,indicator::SL.UEM.INTM.FE.ZS,Indicator
+Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,indicator::SL.UEM.ADVN.ZS,Indicator
+"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,indicator::SL.UEM.1524.NE.ZS,Indicator
+"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,indicator::SL.UEM.1524.FE.NE.ZS,Indicator
+"Part time employment, male (% of total male employment)",SL.TLF.PART.MA.ZS,indicator::SL.TLF.PART.MA.ZS,Indicator
+"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,indicator::SL.TLF.INTM.FE.ZS,Indicator
+"Labor force participation rate, male (% of male population ages 15+) (national estimate)",SL.TLF.CACT.MA.NE.ZS,indicator::SL.TLF.CACT.MA.NE.ZS,Indicator
+"Labor force participation rate, female (% of female population ages 15+) (national estimate)",SL.TLF.CACT.FE.NE.ZS,indicator::SL.TLF.CACT.FE.NE.ZS,Indicator
+Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,indicator::SL.TLF.ADVN.ZS,Indicator
+"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,indicator::SL.EMP.TOTL.SP.NE.ZS,Indicator
+"Employment to population ratio, 15+, female (%) (national estimate)",SL.EMP.TOTL.SP.FE.NE.ZS,indicator::SL.EMP.TOTL.SP.FE.NE.ZS,Indicator
+"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.MS.FE.ZS,indicator::SE.TER.CUAT.MS.FE.ZS,Indicator
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,indicator::SE.TER.CUAT.MS.ZS,Indicator
+"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.UP.FE.ZS,indicator::SE.SEC.CUAT.UP.FE.ZS,Indicator
+"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,indicator::SE.ADT.LITR.MA.ZS,Indicator
+"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS,indicator::SE.SEC.CUAT.PO.ZS,Indicator
+"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,indicator::SE.ADT.LITR.FE.ZS,Indicator
+"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.MS.MA.ZS,indicator::SE.TER.CUAT.MS.MA.ZS,Indicator
+"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.UP.MA.ZS,indicator::SE.SEC.CUAT.UP.MA.ZS,Indicator
+"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",SE.SEC.CUAT.PO.FE.ZS,indicator::SE.SEC.CUAT.PO.FE.ZS,Indicator
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,indicator::SE.ADT.LITR.ZS,Indicator
+"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,indicator::SE.SEC.CUAT.UP.ZS,Indicator
+"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",SE.SEC.CUAT.PO.MA.ZS,indicator::SE.SEC.CUAT.PO.MA.ZS,Indicator
+"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,indicator::IT.NET.USER.MA.ZS,Indicator
+"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,indicator::IT.NET.USER.FE.ZS,Indicator
+"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,indicator::SL.UEM.TOTL.NE.ZS,Indicator
+"Net official flows from UN agencies, FAO (current US$)",DT.NFL.FAOG.CD,indicator::DT.NFL.FAOG.CD,Indicator
+Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,indicator::EN.POP.SLUM.UR.ZS,Indicator
+"Mammal species, threatened",EN.MAM.THRD.NO,indicator::EN.MAM.THRD.NO,Indicator
+"Bird species, threatened",EN.BIR.THRD.NO,indicator::EN.BIR.THRD.NO,Indicator
+"Plant species (higher), threatened",EN.HPT.THRD.NO,indicator::EN.HPT.THRD.NO,Indicator
+"Fish species, threatened",EN.FSH.THRD.NO,indicator::EN.FSH.THRD.NO,Indicator
+Multidimensional poverty headcount ratio (UNDP) (% of population),SI.POV.MPUN,indicator::SI.POV.MPUN,Indicator
+"Net bilateral aid flows from DAC donors, Iceland (current US$)",DC.DAC.ISLL.CD,indicator::DC.DAC.ISLL.CD,Indicator
+"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH.STA.AIRP.MA.P5,indicator::SH.STA.AIRP.MA.P5,Indicator
+"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",SE.TER.CUAT.ST.MA.ZS,indicator::SE.TER.CUAT.ST.MA.ZS,Indicator
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,indicator::SH.STA.WASH.P5,Indicator
+"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH.STA.AIRP.FE.P5,indicator::SH.STA.AIRP.FE.P5,Indicator
+"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",SG.TIM.UWRK.MA,indicator::SG.TIM.UWRK.MA,Indicator
+"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",SE.TER.CUAT.ST.FE.ZS,indicator::SE.TER.CUAT.ST.FE.ZS,Indicator
+"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",SH.STA.AIRP.P5,indicator::SH.STA.AIRP.P5,Indicator
+"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",SE.TER.CUAT.ST.ZS,indicator::SE.TER.CUAT.ST.ZS,Indicator
+"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",SG.TIM.UWRK.FE,indicator::SG.TIM.UWRK.FE,Indicator
+"Adolescents out of school, male (% of male lower secondary school age)",SE.SEC.UNER.LO.MA.ZS,indicator::SE.SEC.UNER.LO.MA.ZS,Indicator
+"Adolescents out of school, female (% of female lower secondary school age)",SE.SEC.UNER.LO.FE.ZS,indicator::SE.SEC.UNER.LO.FE.ZS,Indicator
+Trained teachers in preprimary education (% of total teachers),SE.PRE.TCAQ.ZS,indicator::SE.PRE.TCAQ.ZS,Indicator
+Adolescents out of school (% of lower secondary school age),SE.SEC.UNER.LO.ZS,indicator::SE.SEC.UNER.LO.ZS,Indicator
+"Trained teachers in preprimary education, female (% of female teachers)",SE.PRE.TCAQ.FE.ZS,indicator::SE.PRE.TCAQ.FE.ZS,Indicator
+"Trained teachers in preprimary education, male (% of male teachers)",SE.PRE.TCAQ.MA.ZS,indicator::SE.PRE.TCAQ.MA.ZS,Indicator
+"Net official flows from UN agencies, UNIDO (current US$)",DT.NFL.UNIDO.CD,indicator::DT.NFL.UNIDO.CD,Indicator
+Average transaction cost of sending remittances from a specific country (%),SI.RMT.COST.OB.ZS,indicator::SI.RMT.COST.OB.ZS,Indicator
+"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,indicator::SG.DMK.SRCR.FN.ZS,Indicator
+"Net official flows from UN agencies, UNWOMEN (current US$)",DT.NFL.UNWN.CD,indicator::DT.NFL.UNWN.CD,Indicator
+"Net official flows from UN agencies, SPRP (current US$)",DT.NFL.SPRP.CD,indicator::DT.NFL.SPRP.CD,Indicator
+Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,indicator::SI.POV.LMIC,Indicator
+Income share held by lowest 20%,SI.DST.FRST.20,indicator::SI.DST.FRST.20,Indicator
+Income share held by highest 20%,SI.DST.05TH.20,indicator::SI.DST.05TH.20,Indicator
+Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,indicator::SI.POV.UMIC.GP,Indicator
+Multidimensional poverty headcount ratio (World Bank) (% of population),SI.POV.MPWB,indicator::SI.POV.MPWB,Indicator
+Gini index,SI.POV.GINI,indicator::SI.POV.GINI,Indicator
+Income share held by lowest 10%,SI.DST.FRST.10,indicator::SI.DST.FRST.10,Indicator
+Income share held by fourth 20%,SI.DST.04TH.20,indicator::SI.DST.04TH.20,Indicator
+Proportion of population facing financial hardship due to out-of-pocket health expenditure (%),SH_UHC_FH40,indicator::SH_UHC_FH40,Indicator
+Poverty headcount ratio at societal poverty line (% of population),SI.POV.SOPO,indicator::SI.POV.SOPO,Indicator
+Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,indicator::SI.POV.LMIC.GP,Indicator
+Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,indicator::SI.POV.DDAY,Indicator
+Income share held by highest 10%,SI.DST.10TH.10,indicator::SI.DST.10TH.10,Indicator
+Income share held by second 20%,SI.DST.02ND.20,indicator::SI.DST.02ND.20,Indicator
+"Proportion of population facing impoverishing out-of-pocket health expenditure, based on the societal poverty line (%)",SH_UHC_FH40_IMPOV,indicator::SH_UHC_FH40_IMPOV,Indicator
+Prosperity gap (average shortfall from a prosperity standard of $28/day),SI.SPR.PGAP,indicator::SI.SPR.PGAP,Indicator
+Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,indicator::SI.POV.UMIC,Indicator
+Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,indicator::SI.POV.GAPS,Indicator
+Proportion of people living below 50 percent of median income (%),SI.DST.50MD,indicator::SI.DST.50MD,Indicator
+Income share held by third 20%,SI.DST.03RD.20,indicator::SI.DST.03RD.20,Indicator
+Proportion of population facing large (but non-impoverishing) out-of-pocket health expenditure (%),SH_UHC_FH40_LARGE,indicator::SH_UHC_FH40_LARGE,Indicator
+Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,indicator::SH.HIV.ARTC.ZS,Indicator
+"Net financial flows, IMF nonconcessional (NFL, current US$)",DT.NFL.IMFN.CD,indicator::DT.NFL.IMFN.CD,Indicator
+"Net official flows from UN agencies, UNCOVID (current US$)",DT.NFL.UNCV.CD,indicator::DT.NFL.UNCV.CD,Indicator
+"Net official flows from UN agencies, WTO-ITC (current US$)",DT.NFL.WITC.CD,indicator::DT.NFL.WITC.CD,Indicator
+Number of visits or required meetings with tax officials (average for affected firms),IC.TAX.METG,indicator::IC.TAX.METG,Indicator
+Firms offering formal training (% of firms),IC.FRM.TRNG.ZS,indicator::IC.FRM.TRNG.ZS,Indicator
+Firms visited or required meetings with tax officials (% of firms),IC.FRM.METG.ZS,indicator::IC.FRM.METG.ZS,Indicator
+Firms with female participation in ownership (% of firms),IC.FRM.FEMO.ZS,indicator::IC.FRM.FEMO.ZS,Indicator
+Time required to obtain an operating license (days),IC.FRM.DURS,indicator::IC.FRM.DURS,Indicator
+Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,indicator::IC.FRM.BNKS.ZS,Indicator
+Time to obtain an electrical connection (days),IC.ELC.DURS,indicator::IC.ELC.DURS,Indicator
+Firms expected to give gifts in meetings with tax officials (% of firms),IC.TAX.GIFT.ZS,indicator::IC.TAX.GIFT.ZS,Indicator
+Firms where largest owner is also the top manager (% of firms),IC.FRM.LOTM.ZS,indicator::IC.FRM.LOTM.ZS,Indicator
+Firms with female top manager (% of firms),IC.FRM.FEMM.ZS,indicator::IC.FRM.FEMM.ZS,Indicator
+Firms that are partially credit constrained (% of firms),IC.FRM.CRDC.PT.ZS,indicator::IC.FRM.CRDC.PT.ZS,Indicator
+Firms competing against unregistered firms (% of firms),IC.FRM.CMPU.ZS,indicator::IC.FRM.CMPU.ZS,Indicator
+Firms with a bank loan/line of credit (% of firms),IC.FRM.BNKL.ZS,indicator::IC.FRM.BNKL.ZS,Indicator
+Average time to clear imports through customs (days),IC.CUS.DURS.IM,indicator::IC.CUS.DURS.IM,Indicator
+Time spent dealing with the requirements of government regulations (% of senior management time),IC.GOV.DURS.ZS,indicator::IC.GOV.DURS.ZS,Indicator
+"Firms that introduced a new product/service and process, and spent on R&D",IC.FRM.NPRD.ZS,indicator::IC.FRM.NPRD.ZS,Indicator
+Firms with at least 10% foreign ownership,IC.FRM.FO.ZS,indicator::IC.FRM.FO.ZS,Indicator
+Informal payments to public officials (% of firms),IC.FRM.CORR.ZS,indicator::IC.FRM.CORR.ZS,Indicator
+Bribery incidence (% of firms experiencing at least one bribe payment request),IC.FRM.BRIB.ZS,indicator::IC.FRM.BRIB.ZS,Indicator
+Firms experiencing electrical outages (% of firms),IC.ELC.OUTG.ZS,indicator::IC.ELC.OUTG.ZS,Indicator
+Management practices index,IC.MNG.IND,indicator::IC.MNG.IND,Indicator
+Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,indicator::IC.FRM.OUTG.ZS,Indicator
+Firms formally registered when operations started (% of firms),IC.FRM.FREG.ZS,indicator::IC.FRM.FREG.ZS,Indicator
+Firms exporting directly at least 10% of sales (% of firms),IC.FRM.EXS.ZS,indicator::IC.FRM.EXS.ZS,Indicator
+Firms that are fully credit constrained (% of firms),IC.FRM.CRDC.FL.ZS,indicator::IC.FRM.CRDC.FL.ZS,Indicator
+Firms using banks to finance working capital (% of firms),IC.FRM.BKWC.ZS,indicator::IC.FRM.BKWC.ZS,Indicator
+Average time to clear exports through customs (days),IC.CUS.DURS.EX,indicator::IC.CUS.DURS.EX,Indicator
+"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS,indicator::SE.TER.CUAT.DO.ZS,Indicator
+"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",SE.TER.CUAT.DO.MA.ZS,indicator::SE.TER.CUAT.DO.MA.ZS,Indicator
+"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",SE.TER.CUAT.DO.FE.ZS,indicator::SE.TER.CUAT.DO.FE.ZS,Indicator
+"Net official flows from UN agencies, UNEP (current US$)",DT.NFL.UNEP.CD,indicator::DT.NFL.UNEP.CD,Indicator
+Public private partnerships investment in ICT (current US$),IE.PPN.ICTI.CD,indicator::IE.PPN.ICTI.CD,Indicator
+Investment in ICT with private participation (current US$),IE.PPI.ICTI.CD,indicator::IE.PPI.ICTI.CD,Indicator
+Present value of external debt (current US$),DT.DOD.PVLX.CD,indicator::DT.DOD.PVLX.CD,Indicator
+"Present value of external debt (% of exports of goods, services and primary income)",DT.DOD.PVLX.EX.ZS,indicator::DT.DOD.PVLX.EX.ZS,Indicator
+Present value of external debt (% of GNI),DT.DOD.PVLX.GN.ZS,indicator::DT.DOD.PVLX.GN.ZS,Indicator
+Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL,indicator::SH.HIV.INCD.TL,Indicator
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,indicator::SH.DYN.AIDS.ZS,Indicator
+"Incidence of HIV, all (per 1,000 uninfected population)",SH.HIV.INCD.TL.P3,indicator::SH.HIV.INCD.TL.P3,Indicator
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,indicator::SH.STA.DIAB.ZS,Indicator
+Young people (ages 15-24) newly infected with HIV,SH.HIV.INCD.YG,indicator::SH.HIV.INCD.YG,Indicator
+WBL: Supportive Framework Index (scale 0-100),GD_WBL_OVL_SFR,indicator::GD_WBL_OVL_SFR,Indicator
+WBL: Enforcement Perceptions Index (scale 0-100),GD_WBL_OVL_ENF,indicator::GD_WBL_OVL_ENF,Indicator
+WBL: Legal Framework Index (scale 0-100),GD_WBL_OVL_LAW,indicator::GD_WBL_OVL_LAW,Indicator

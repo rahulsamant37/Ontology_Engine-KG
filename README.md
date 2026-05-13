@@ -158,6 +158,47 @@ Load sample events and run query+graph snapshot:
 uv run python scripts/test_run.py
 ```
 
+## Load IMF WEO CSV into Neo4j Aura
+
+This project includes a dedicated loader for `data/weo_imf_2025.csv` that:
+
+- Cleans metadata fields and handles non-UTF CSV encoding.
+- Reshapes year columns (`1980..2030`) into long observations.
+- Maps only core semantic entities for faster macro queries and RAG retrieval.
+- Pushes batched writes to Neo4j Aura.
+
+Graph model used:
+
+- Nodes: `Country`, `Indicator`, `Observation`
+- Relationships:
+	- `(:Country)-[:HAS_OBSERVATION]->(:Observation)`
+	- `(:Observation)-[:FOR_INDICATOR]->(:Indicator)`
+
+Observation stores non-essential dimensions as properties:
+
+- `frequency`, `scale`, `unit`, `source`, `series_code`, `currency`, `obs_measure`
+
+Set Aura values in `.env` (or pass them as flags):
+
+```bash
+USE_NEO4J=true
+NEO4J_URI=neo4j+s://<your-instance-id>.databases.neo4j.io
+NEO4J_USER=neo4j
+NEO4J_PASSWORD=<your-password>
+```
+
+Run loader:
+
+```bash
+uv run python scripts/load_weo_to_neo4j.py --csv-path data/weo_imf_2025.csv --batch-size 5000
+```
+
+Optional reset of previously loaded WEO graph labels:
+
+```bash
+uv run python scripts/load_weo_to_neo4j.py --csv-path data/weo_imf_2025.csv --wipe-existing
+```
+
 ## Tests
 
 ```bash

@@ -1,0 +1,10 @@
+from __future__ import annotations
+
+COUNTRY_LABEL = "Country"
+INDICATOR_LABEL = "Indicator"
+YEAR_LABEL = "Year"
+OBSERVATION_LABEL = "Observation"
+
+REL_HAS_OBSERVATION = "HAS_OBSERVATION"
+REL_OF_INDICATOR = "OF_INDICATOR"
+REL_AT_YEAR = "AT_YEAR"
